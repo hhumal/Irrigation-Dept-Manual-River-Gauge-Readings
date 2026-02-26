@@ -1,10 +1,9 @@
 # ==============================================================================
-# Google Colab Script: Sri Lanka Irrigation Rainfall Data Scraper (Station CSVs)
+# Automated GitHub Actions Script: Sri Lanka Irrigation Rainfall Data Scraper 
 # ==============================================================================
 import requests
 import pandas as pd
 import os
-import shutil
 from datetime import timedelta
 
 # The exact layer you found, but ending in /query instead of /queryBins
@@ -88,13 +87,13 @@ df = scrape_rainfall_data(API_URL)
 if df is not None:
     # 2. Show a quick preview of the cleaned data
     print("\n📊 Cleaned Data Preview:")
-    display(df.head())
+    print(df.head()) # Note: Standard print() used instead of Colab's display()
     
     # 3. Force the grouping by 'gauge' (station name) instead of 'basin'
     target_col = 'gauge'
 
     if target_col in df.columns:
-        print(f"\n📂 Grouping data into separate files by individual station: '{target_col}'")
+        print(f"\n📂 Appending new data to separate files by individual station: '{target_col}'")
         
         # 4. Create a folder to hold all the CSV files
         folder_name = "Station_Rainfall_CSVs"
@@ -103,26 +102,41 @@ if df is not None:
         # Get all unique stations
         unique_locations = df[target_col].dropna().unique()
         
-        # 5. Loop through each station and create a separate CSV
+        # 5. Loop through each station and append/create a separate CSV
         for location in unique_locations:
-            # Filter data for this specific station
+            # Filter newly fetched data for this specific station
             location_df = df[df[target_col] == location]
             
             # Clean up the station name so it's safe to use as a file name
             safe_name = str(location).replace("/", "_").replace("\\", "_").replace(" ", "_")
-            
-            # Save to a CSV inside the folder
             file_path = f"{folder_name}/{safe_name}.csv"
-            location_df.to_csv(file_path, index=False)
             
-        print(f"✅ Created {len(unique_locations)} separate CSV files inside the '{folder_name}' folder.")
-        
-        # 6. Zip the folder so you can download everything with one click
-        zip_filename = "SL_Station_Rainfall_Data"
-        shutil.make_archive(zip_filename, 'zip', folder_name)
-        
-        print(f"\n🎉 Success! All separate station CSV files have been zipped.")
-        print(f"👉 Click the Folder icon (📁) on the left side of Colab and download '{zip_filename}.zip'")
+            # Check if this station's file already exists from a previous run
+            if os.path.exists(file_path):
+                # Load the existing historical data
+                existing_df = pd.read_csv(file_path)
+                
+                # Make sure Pandas treats the existing time column as a Datetime format for safe comparison
+                if 'Observation_Time' in existing_df.columns:
+                    existing_df['Observation_Time'] = pd.to_datetime(existing_df['Observation_Time'])
+                    
+                # Combine the old data with the newly downloaded data
+                combined_df = pd.concat([existing_df, location_df])
+            else:
+                # If the file doesn't exist yet, just use the newly downloaded data
+                combined_df = location_df
+                
+            # Remove any duplicate rows based on the Observation_Time (keeps the newest data point)
+            if 'Observation_Time' in combined_df.columns:
+                combined_df = combined_df.drop_duplicates(subset=['Observation_Time'], keep='last')
+                # Sort the data chronologically so the CSV goes from oldest to newest
+                combined_df = combined_df.sort_values(by='Observation_Time')
+            
+            # Save the seamlessly updated dataset back to the CSV file
+            combined_df.to_csv(file_path, index=False)
+            
+        print(f"✅ Successfully updated {len(unique_locations)} station files inside the '{folder_name}' folder.")
+        print(f"🚀 GitHub Actions will now automatically commit these changes to your repository!")
         
     else:
         print(f"\n⚠️ The column '{target_col}' was not found in the dataset.")
