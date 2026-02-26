@@ -39,6 +39,9 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1315962,Aththanagalu Oya,Dunamale,0.3,0.0,2026-02-20 23:04:36.406,3.3,4.4,5.5
 1315992,Aththanagalu Oya,Dunamale,0.3,0.0,2026-02-21 00:02:27.136,3.3,4.4,5.5
 1316024,Aththanagalu Oya,Dunamale,0.3,0.0,2026-02-21 01:02:21.315,3.3,4.4,5.5
+1316069,Aththanagalu Oya,Dunamale,0.3,0.3,2026-02-21 02:06:08.717,3.3,4.4,5.5
+1316115,Aththanagalu Oya,Dunamale,0.3,0.0,2026-02-21 03:29:19.453,3.3,4.4,5.5
+1316142,Aththanagalu Oya,Dunamale,0.3,0.0,2026-02-21 04:06:20.740,3.3,4.4,5.5
 1316558,Aththanagalu Oya,Dunamale,0.33,0.0,2026-02-21 14:28:24.104,3.3,4.4,5.5
 1316594,Aththanagalu Oya,Dunamale,0.33,0.0,2026-02-21 15:07:09.417,3.3,4.4,5.5
 1316616,Aththanagalu Oya,Dunamale,0.33,0.0,2026-02-21 16:03:20.193,3.3,4.4,5.5
@@ -79,6 +82,9 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1317963,Aththanagalu Oya,Dunamale,0.68,0.0,2026-02-23 03:04:17.077,3.3,4.4,5.5
 1318001,Aththanagalu Oya,Dunamale,0.65,0.0,2026-02-23 04:03:50.661,3.3,4.4,5.5
 1318020,Aththanagalu Oya,Dunamale,0.62,0.0,2026-02-23 05:00:02.159,3.3,4.4,5.5
+1318082,Aththanagalu Oya,Dunamale,0.6,0.0,2026-02-23 06:05:32.164,3.3,4.4,5.5
+1318116,Aththanagalu Oya,Dunamale,0.58,0.0,2026-02-23 07:03:07.866,3.3,4.4,5.5
+1318162,Aththanagalu Oya,Dunamale,0.56,0.0,2026-02-23 08:03:21.874,3.3,4.4,5.5
 1318544,Aththanagalu Oya,Dunamale,0.44,0.0,2026-02-23 18:01:36.206,3.3,4.4,5.5
 1318587,Aththanagalu Oya,Dunamale,0.43,0.0,2026-02-23 19:02:20.895,3.3,4.4,5.5
 1318628,Aththanagalu Oya,Dunamale,0.43,0.0,2026-02-23 20:01:24.518,3.3,4.4,5.5
@@ -116,6 +122,10 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1319906,Aththanagalu Oya,Dunamale,0.29,0.0,2026-02-25 06:00:37.957,3.3,4.4,5.5
 1319976,Aththanagalu Oya,Dunamale,0.29,0.0,2026-02-25 07:06:18.007,3.3,4.4,5.5
 1320008,Aththanagalu Oya,Dunamale,0.29,0.0,2026-02-25 08:05:32.111,3.3,4.4,5.5
+1320054,Aththanagalu Oya,Dunamale,0.27,0.0,2026-02-25 09:05:18.363,3.3,4.4,5.5
+1320087,Aththanagalu Oya,Dunamale,0.26,0.0,2026-02-25 10:03:55.898,3.3,4.4,5.5
+1320135,Aththanagalu Oya,Dunamale,0.25,0.0,2026-02-25 11:05:31.442,3.3,4.4,5.5
+1320146,Aththanagalu Oya,Dunamale,0.24,0.0,2026-02-25 12:01:13.282,3.3,4.4,5.5
 1320629,Aththanagalu Oya,Dunamale,0.22,0.0,2026-02-26 00:02:51.882,3.3,4.4,5.5
 1320688,Aththanagalu Oya,Dunamale,0.22,0.0,2026-02-26 02:02:40.169,3.3,4.4,5.5
 1320738,Aththanagalu Oya,Dunamale,0.22,0.0,2026-02-26 03:30:15.867,3.3,4.4,5.5
@@ -137,3 +147,7 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1321391,Aththanagalu Oya,Dunamale,0.19,0.0,2026-02-26 20:02:16.434,3.3,4.4,5.5
 1321428,Aththanagalu Oya,Dunamale,0.18,0.0,2026-02-26 21:02:28.113,3.3,4.4,5.5
 1321473,Aththanagalu Oya,Dunamale,0.18,0.0,2026-02-26 22:02:36.260,3.3,4.4,5.5
+1321526,Aththanagalu Oya,Dunamale,0.18,0.0,2026-02-26 23:22:37.395,3.3,4.4,5.5
+1321536,Aththanagalu Oya,Dunamale,0.18,0.0,2026-02-27 00:02:24.408,3.3,4.4,5.5
+1321593,Aththanagalu Oya,Dunamale,0.18,0.0,2026-02-27 01:46:19.217,3.3,4.4,5.5
+1321615,Aththanagalu Oya,Dunamale,0.18,,2026-02-27 02:06:22.282,3.3,4.4,5.5
