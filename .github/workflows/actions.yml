@@ -1,42 +1,42 @@
-name: Scrape SL Rainfall (Station CSVs)
+name: Update Rainfall Data
 
 on:
-  workflow_dispatch:
+  # This schedule tells GitHub to run the script automatically
+  # Currently set to run twice a day at 00:00 and 12:00 UTC (05:30 and 17:30 Sri Lanka time)
   schedule:
-    # every day at 00:30 UTC (06:00 in Sri Lanka, UTC+5:30)
-    - cron: "30 0 * * *"
+    - cron: '0 0,12 * * *'
+  
+  # This line allows you to trigger the script manually from the GitHub website
+  workflow_dispatch:
 
 jobs:
-  scrape:
+  scrape-and-update:
     runs-on: ubuntu-latest
+    
+    # REQUIRED: Grants the workflow permission to save/commit the CSV files back to the repository
     permissions:
-      contents: read
+      contents: write
 
     steps:
-      - name: Checkout
+      - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Setup Python
+      - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.11"
+          python-version: '3.10'
+          cache: 'pip' # Speeds up the workflow by caching dependencies
 
-      - name: Install dependencies
+      - name: Install Python Dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Run scraper
-        env:
-          # Optional overrides:
-          # API_URL: https://...
-          GROUP_COL: gauge
-          OUT_DIR: out/Station_Rainfall_CSVs
-        run: |
-          python scrape_sl_rainfall.py
+      - name: Run Scraper Script
+        run: python Scrape_SL_Rainfall.py
 
-      - name: Upload zipped output
-        uses: actions/upload-artifact@v4
+      - name: Commit and Push Updated CSVs
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          name: SL_Station_Rainfall_Data
-          path: out/SL_Station_Rainfall_Data.zip
+          commit_message: "Automated update: Added latest rainfall readings"
+          file_pattern: "Station_Rainfall_CSVs/*.csv"
