@@ -28,6 +28,9 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1315656,Kalu Ganga,Putupaula,0.8,0.0,2026-02-20 15:03:47.600,3.0,4.0,5.0
 1315696,Kalu Ganga,Putupaula,0.95,0.0,2026-02-20 16:04:40.546,3.0,4.0,5.0
 1315724,Kalu Ganga,Putupaula,0.9,0.7,2026-02-20 17:02:50.362,3.0,4.0,5.0
+1315750,Kalu Ganga,Putupaula,0.83,0.3,2026-02-20 18:00:10.019,3.0,4.0,5.0
+1315824,Kalu Ganga,Putupaula,0.77,0.0,2026-02-20 19:10:56.629,3.0,4.0,5.0
+1315852,Kalu Ganga,Putupaula,0.62,0.0,2026-02-20 20:07:05.331,3.0,4.0,5.0
 1316554,Kalu Ganga,Putupaula,0.6,0.0,2026-02-21 14:06:21.039,3.0,4.0,5.0
 1316580,Kalu Ganga,Putupaula,0.75,0.0,2026-02-21 15:03:10.099,3.0,4.0,5.0
 1316605,Kalu Ganga,Putupaula,0.86,0.0,2026-02-21 16:02:12.248,3.0,4.0,5.0
@@ -58,6 +61,11 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1317617,Kalu Ganga,Putupaula,1.72,0.0,2026-02-22 18:00:32.149,3.0,4.0,5.0
 1317685,Kalu Ganga,Putupaula,1.75,0.0,2026-02-22 19:08:41.593,3.0,4.0,5.0
 1317724,Kalu Ganga,Putupaula,1.77,0.0,2026-02-22 20:09:52.651,3.0,4.0,5.0
+1317762,Kalu Ganga,Putupaula,1.79,0.0,2026-02-22 21:07:09.772,3.0,4.0,5.0
+1317785,Kalu Ganga,Putupaula,1.8,0.0,2026-02-22 22:04:52.071,3.0,4.0,5.0
+1317832,Kalu Ganga,Putupaula,1.8,0.0,2026-02-22 23:06:17.303,3.0,4.0,5.0
+1317864,Kalu Ganga,Putupaula,1.81,0.0,2026-02-23 00:05:07.375,3.0,4.0,5.0
+1317894,Kalu Ganga,Putupaula,1.81,0.0,2026-02-23 01:04:37.277,3.0,4.0,5.0
 1318543,Kalu Ganga,Putupaula,0.97,0.0,2026-02-23 18:01:35.095,3.0,4.0,5.0
 1318601,Kalu Ganga,Putupaula,1.03,0.0,2026-02-23 19:06:51.753,3.0,4.0,5.0
 1318652,Kalu Ganga,Putupaula,1.01,0.0,2026-02-23 20:05:45.130,3.0,4.0,5.0
@@ -86,6 +94,9 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1319645,Kalu Ganga,Putupaula,0.8,0.0,2026-02-24 22:07:37.374,3.0,4.0,5.0
 1319672,Kalu Ganga,Putupaula,0.84,0.0,2026-02-24 23:02:50.951,3.0,4.0,5.0
 1319728,Kalu Ganga,Putupaula,0.87,0.0,2026-02-25 00:13:58.883,3.0,4.0,5.0
+1319764,Kalu Ganga,Putupaula,0.88,0.0,2026-02-25 02:04:53.501,3.0,4.0,5.0
+1319859,Kalu Ganga,Putupaula,0.79,0.0,2026-02-25 04:21:43.825,3.0,4.0,5.0
+1319886,Kalu Ganga,Putupaula,0.75,0.0,2026-02-25 05:04:39.576,3.0,4.0,5.0
 1320610,Kalu Ganga,Putupaula,0.84,0.0,2026-02-25 23:29:24.085,3.0,4.0,5.0
 1320674,Kalu Ganga,Putupaula,0.9,0.0,2026-02-26 01:15:25.163,3.0,4.0,5.0
 1320737,Kalu Ganga,Putupaula,0.87,0.0,2026-02-26 03:23:15.312,3.0,4.0,5.0
@@ -100,3 +111,7 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1321058,Kalu Ganga,Putupaula,0.42,0.0,2026-02-26 12:00:49.717,3.0,4.0,5.0
 1321121,Kalu Ganga,Putupaula,0.45,0.0,2026-02-26 13:03:33.133,3.0,4.0,5.0
 1321158,Kalu Ganga,Putupaula,0.47,0.0,2026-02-26 14:02:56.268,3.0,4.0,5.0
+1321212,Kalu Ganga,Putupaula,0.47,0.0,2026-02-26 15:04:10.598,3.0,4.0,5.0
+1321239,Kalu Ganga,Putupaula,0.49,0.0,2026-02-26 16:02:37.800,3.0,4.0,5.0
+1321286,Kalu Ganga,Putupaula,0.46,0.0,2026-02-26 17:03:13.088,3.0,4.0,5.0
+1321309,Kalu Ganga,Putupaula,0.43,0.0,2026-02-26 18:01:36.882,3.0,4.0,5.0
