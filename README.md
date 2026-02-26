@@ -225,6 +225,3 @@ MIT License
 Maintained for automated environmental data collection and open data research.
 
 ---
-
-* A **professional data-science style README**
-* Or a **badge-enhanced GitHub README** with shields (build status, last update, etc.)
