@@ -2,9 +2,9 @@ name: Update Rainfall Data
 
 on:
   # This schedule tells GitHub to run the script automatically
-  # Currently set to run twice a day at 00:00 and 12:00 UTC (05:30 and 17:30 Sri Lanka time)
+  # runs will actually happen locally at 5:30 AM, 11:30 AM, 5:30 PM, and 11:30 PM
   schedule:
-    - cron: '30 0 * * *'
+    - cron: '0 */6 * * *'
   
   # This line allows you to trigger the script manually from the GitHub website
   workflow_dispatch:
