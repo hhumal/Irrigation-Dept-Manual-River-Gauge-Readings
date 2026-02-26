@@ -1,40 +1,42 @@
-name: run main.py
+name: Scrape SL Rainfall (Station CSVs)
 
 on:
-  workflow_dispatch: 
+  workflow_dispatch:
+  schedule:
+    # every day at 00:30 UTC (06:00 in Sri Lanka, UTC+5:30)
+    - cron: "30 0 * * *"
 
 jobs:
-  build:
+  scrape:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
+
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - name: checkout repo content
-        uses: actions/checkout@v2 # checkout the repository content to github runner
-
-      - name: setup python
-        uses: actions/setup-python@v4
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.9' # install the python version needed
-          
-      - name: install python packages
+          python-version: "3.11"
+
+      - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
-          
-      - name: execute py script # run main.py
+
+      - name: Run scraper
         env:
-          SOME_SECRET: ${{ secrets.SOME_SECRET }}
-        run: python main.py
-          
-      - name: commit files
+          # Optional overrides:
+          # API_URL: https://...
+          GROUP_COL: gauge
+          OUT_DIR: out/Station_Rainfall_CSVs
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add -A
-          git diff-index --quiet HEAD || (git commit -a -m "updated logs" --allow-empty)
-          
-      - name: push changes
-        uses: ad-m/github-push-action@v0.6.0
+          python scrape_sl_rainfall.py
+
+      - name: Upload zipped output
+        uses: actions/upload-artifact@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main 
+          name: SL_Station_Rainfall_Data
+          path: out/SL_Station_Rainfall_Data.zip
