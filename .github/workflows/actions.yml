@@ -33,7 +33,7 @@ jobs:
           pip install -r requirements.txt
 
       - name: Run Scraper Script
-        run: python Scrape_SL_Rainfall.py
+        run: python main.py
 
       - name: Commit and Push Updated CSVs
         uses: stefanzweifel/git-auto-commit-action@v5
