@@ -7,7 +7,7 @@ on:
     - cron: '*/5 * * * *'
   
   # This line allows you to trigger the script manually from the GitHub website
-  workflow_dispatch:
+  # workflow_dispatch:
 
 jobs:
   scrape-and-update:
