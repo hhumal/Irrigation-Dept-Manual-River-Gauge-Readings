@@ -4,7 +4,7 @@ on:
   # This schedule tells GitHub to run the script automatically
   # runs will actually happen locally at 5:30 AM, 11:30 AM, 5:30 PM, and 11:30 PM
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: '*/5 * * * *'
   
   # This line allows you to trigger the script manually from the GitHub website
   workflow_dispatch:
