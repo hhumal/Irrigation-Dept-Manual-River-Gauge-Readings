@@ -50,6 +50,7 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1316377,Maha Oya,Badalgama,1.8,0.0,2026-02-21 10:02:59.740,5.0,6.2,9.6
 1316416,Maha Oya,Badalgama,1.8,0.0,2026-02-21 11:03:23.820,5.0,6.2,9.6
 1316447,Maha Oya,Badalgama,1.8,0.0,2026-02-21 12:02:43.674,5.0,6.2,9.6
+1316508,Maha Oya,Badalgama,1.8,0.0,2026-02-21 13:04:49.106,5.0,6.2,9.6
 1316540,Maha Oya,Badalgama,1.8,0.0,2026-02-21 14:03:30.941,5.0,6.2,9.6
 1316577,Maha Oya,Badalgama,1.8,0.0,2026-02-21 15:02:47.923,5.0,6.2,9.6
 1316627,Maha Oya,Badalgama,1.8,0.0,2026-02-21 16:05:36.208,5.0,6.2,9.6
@@ -104,6 +105,7 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1318389,Maha Oya,Badalgama,2.16,0.0,2026-02-23 14:01:53.867,5.0,6.2,9.6
 1318436,Maha Oya,Badalgama,2.15,0.0,2026-02-23 15:04:02.315,5.0,6.2,9.6
 1318464,Maha Oya,Badalgama,2.13,0.0,2026-02-23 16:05:18.466,5.0,6.2,9.6
+1318503,Maha Oya,Badalgama,2.11,0.0,2026-02-23 17:04:08.321,5.0,6.2,9.6
 1318546,Maha Oya,Badalgama,2.1,0.0,2026-02-23 18:01:43.511,5.0,6.2,9.6
 1318595,Maha Oya,Badalgama,2.09,0.0,2026-02-23 19:04:57.855,5.0,6.2,9.6
 1318650,Maha Oya,Badalgama,2.08,0.0,2026-02-23 20:05:17.633,5.0,6.2,9.6
@@ -158,6 +160,7 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1320401,Maha Oya,Badalgama,1.89,0.0,2026-02-25 18:02:19.020,5.0,6.2,9.6
 1320454,Maha Oya,Badalgama,1.88,0.0,2026-02-25 19:06:01.787,5.0,6.2,9.6
 1320478,Maha Oya,Badalgama,1.88,0.0,2026-02-25 20:02:17.613,5.0,6.2,9.6
+1320512,Maha Oya,Badalgama,1.88,0.0,2026-02-25 21:02:32.283,5.0,6.2,9.6
 1320560,Maha Oya,Badalgama,1.88,0.0,2026-02-25 22:03:43.669,5.0,6.2,9.6
 1320596,Maha Oya,Badalgama,1.88,0.0,2026-02-25 23:04:24.335,5.0,6.2,9.6
 1320604,Maha Oya,Badalgama,1.88,0.0,2026-02-25 23:10:54.809,5.0,6.2,9.6
@@ -199,3 +202,7 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1321853,Maha Oya,Badalgama,1.83,0.0,2026-02-27 08:08:12.045,5.0,6.2,9.6
 1321894,Maha Oya,Badalgama,1.83,0.0,2026-02-27 09:06:25.576,5.0,6.2,9.6
 1321925,Maha Oya,Badalgama,1.83,0.0,2026-02-27 10:05:41.920,5.0,6.2,9.6
+1321973,Maha Oya,Badalgama,1.82,0.0,2026-02-27 11:07:05.366,5.0,6.2,9.6
+1322016,Maha Oya,Badalgama,1.82,0.0,2026-02-27 12:06:20.683,5.0,6.2,9.6
+1322053,Maha Oya,Badalgama,1.82,0.0,2026-02-27 13:06:54.740,5.0,6.2,9.6
+1322096,Maha Oya,Badalgama,1.82,0.0,2026-02-27 14:06:58.001,5.0,6.2,9.6

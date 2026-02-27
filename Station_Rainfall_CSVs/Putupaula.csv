@@ -45,6 +45,7 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1316362,Kalu Ganga,Putupaula,0.37,0.0,2026-02-21 10:01:43.931,3.0,4.0,5.0
 1316433,Kalu Ganga,Putupaula,0.22,0.0,2026-02-21 11:13:02.746,3.0,4.0,5.0
 1316470,Kalu Ganga,Putupaula,0.31,0.0,2026-02-21 12:06:24.624,3.0,4.0,5.0
+1316518,Kalu Ganga,Putupaula,0.53,0.0,2026-02-21 13:17:46.416,3.0,4.0,5.0
 1316554,Kalu Ganga,Putupaula,0.6,0.0,2026-02-21 14:06:21.039,3.0,4.0,5.0
 1316580,Kalu Ganga,Putupaula,0.75,0.0,2026-02-21 15:03:10.099,3.0,4.0,5.0
 1316605,Kalu Ganga,Putupaula,0.86,0.0,2026-02-21 16:02:12.248,3.0,4.0,5.0
@@ -94,6 +95,7 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1318399,Kalu Ganga,Putupaula,0.8,0.0,2026-02-23 14:02:52.460,3.0,4.0,5.0
 1318439,Kalu Ganga,Putupaula,0.77,0.0,2026-02-23 15:05:15.786,3.0,4.0,5.0
 1318457,Kalu Ganga,Putupaula,0.72,0.0,2026-02-23 16:03:21.184,3.0,4.0,5.0
+1318488,Kalu Ganga,Putupaula,0.85,0.0,2026-02-23 17:01:49.539,3.0,4.0,5.0
 1318543,Kalu Ganga,Putupaula,0.97,0.0,2026-02-23 18:01:35.095,3.0,4.0,5.0
 1318601,Kalu Ganga,Putupaula,1.03,0.0,2026-02-23 19:06:51.753,3.0,4.0,5.0
 1318652,Kalu Ganga,Putupaula,1.01,0.0,2026-02-23 20:05:45.130,3.0,4.0,5.0
@@ -139,6 +141,8 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1320384,Kalu Ganga,Putupaula,0.56,0.0,2026-02-25 17:09:08.664,3.0,4.0,5.0
 1320397,Kalu Ganga,Putupaula,0.67,0.0,2026-02-25 18:01:56.105,3.0,4.0,5.0
 1320458,Kalu Ganga,Putupaula,0.69,0.0,2026-02-25 19:09:28.012,3.0,4.0,5.0
+1320496,Kalu Ganga,Putupaula,0.73,0.0,2026-02-25 20:07:58.267,3.0,4.0,5.0
+1320527,Kalu Ganga,Putupaula,0.75,0.0,2026-02-25 21:05:58.705,3.0,4.0,5.0
 1320610,Kalu Ganga,Putupaula,0.84,0.0,2026-02-25 23:29:24.085,3.0,4.0,5.0
 1320674,Kalu Ganga,Putupaula,0.9,0.0,2026-02-26 01:15:25.163,3.0,4.0,5.0
 1320737,Kalu Ganga,Putupaula,0.87,0.0,2026-02-26 03:23:15.312,3.0,4.0,5.0
@@ -172,3 +176,7 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1321848,Kalu Ganga,Putupaula,0.42,0.0,2026-02-27 08:06:29.327,3.0,4.0,5.0
 1321868,Kalu Ganga,Putupaula,0.42,0.0,2026-02-27 09:02:08.498,3.0,4.0,5.0
 1321904,Kalu Ganga,Putupaula,0.46,0.0,2026-02-27 10:01:34.802,3.0,4.0,5.0
+1321961,Kalu Ganga,Putupaula,0.51,0.0,2026-02-27 11:03:25.326,3.0,4.0,5.0
+1321992,Kalu Ganga,Putupaula,0.52,0.0,2026-02-27 12:02:20.097,3.0,4.0,5.0
+1322037,Kalu Ganga,Putupaula,0.54,0.0,2026-02-27 13:02:35.979,3.0,4.0,5.0
+1322070,Kalu Ganga,Putupaula,0.5,0.0,2026-02-27 14:01:28.760,3.0,4.0,5.0
