@@ -261,3 +261,6 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1324157,Kalu Ganga,Ellagawa,4.02,0.0,2026-03-01 20:02:01.898,10.0,10.7,12.2
 1324202,Kalu Ganga,Ellagawa,4.0,0.0,2026-03-01 21:02:51.102,10.0,10.7,12.2
 1324231,Kalu Ganga,Ellagawa,4.0,0.0,2026-03-01 22:01:52.447,10.0,10.7,12.2
+1324301,Kalu Ganga,Ellagawa,3.99,0.0,2026-03-02 00:02:34.601,10.0,10.7,12.2
+1324373,Kalu Ganga,Ellagawa,3.99,0.0,2026-03-02 02:03:49.308,10.0,10.7,12.2
+1324374,Kalu Ganga,Ellagawa,3.99,0.0,2026-03-02 02:03:50.858,10.0,10.7,12.2
