@@ -151,3 +151,6 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1324952,Mee Oya,Galgamuwa,0.01,0.0,2026-03-02 16:07:27.358,4.84,5.94,8.0
 1324964,Mee Oya,Galgamuwa,0.01,0.0,2026-03-02 17:00:35.197,4.84,5.94,8.0
 1325003,Mee Oya,Galgamuwa,0.01,0.0,2026-03-02 18:00:46.819,4.84,5.94,8.0
+1325478,Mee Oya,Galgamuwa,0.02,0.0,2026-03-03 06:34:13.401,4.84,5.94,8.0
+1325485,Mee Oya,Galgamuwa,0.02,0.0,2026-03-03 07:02:07.249,4.84,5.94,8.0
+1325538,Mee Oya,Galgamuwa,0.01,0.0,2026-03-03 08:03:40.202,4.84,5.94,8.0
