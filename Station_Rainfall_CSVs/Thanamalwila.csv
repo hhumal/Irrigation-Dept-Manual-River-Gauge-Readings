@@ -675,3 +675,6 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1340722,Kirindi Oya,Thanamalwila,0.69,0.0,2026-03-19 20:01:13.429,4.0,5.0,5.5
 1340789,Kirindi Oya,Thanamalwila,0.76,0.0,2026-03-19 21:07:40.445,4.0,5.0,5.5
 1340797,Kirindi Oya,Thanamalwila,0.79,0.8,2026-03-19 22:01:23.405,4.0,5.0,5.5
+1340839,Kirindi Oya,Thanamalwila,0.8,0.0,2026-03-19 23:02:24.850,4.0,5.0,5.5
+1340878,Kirindi Oya,Thanamalwila,0.81,0.0,2026-03-20 00:05:11.796,4.0,5.0,5.5
+1340896,Kirindi Oya,Thanamalwila,0.81,0.0,2026-03-20 01:02:02.566,4.0,5.0,5.5
