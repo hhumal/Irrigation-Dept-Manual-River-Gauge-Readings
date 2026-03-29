@@ -497,3 +497,7 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1349591,Mahaweli Ganga,Weraganthota,-2.28,0.0,2026-03-29 12:00:14.893,5.0,6.0,8.0
 1349632,Mahaweli Ganga,Weraganthota,-2.32,0.0,2026-03-29 13:00:18.074,5.0,6.0,8.0
 1349692,Mahaweli Ganga,Weraganthota,-2.47,0.0,2026-03-29 14:03:11.492,5.0,6.0,8.0
+1349710,Mahaweli Ganga,Weraganthota,-2.65,,2026-03-29 15:00:18.691,5.0,6.0,8.0
+1349752,Mahaweli Ganga,Weraganthota,-2.76,0.0,2026-03-29 16:00:23.975,5.0,6.0,8.0
+1349791,Mahaweli Ganga,Weraganthota,-2.82,0.0,2026-03-29 17:00:33.322,5.0,6.0,8.0
+1349833,Mahaweli Ganga,Weraganthota,-3.05,0.0,2026-03-29 18:00:53.734,5.0,6.0,8.0
