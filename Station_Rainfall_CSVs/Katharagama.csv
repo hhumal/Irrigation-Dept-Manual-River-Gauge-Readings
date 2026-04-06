@@ -1122,3 +1122,6 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1357300,Menik Ganga,Katharagama,0.02,0.0,2026-04-06 20:08:24.908,4.0,4.6,6.5
 1357333,Menik Ganga,Katharagama,0.02,0.0,2026-04-06 21:05:12.504,4.0,4.6,6.5
 1357365,Menik Ganga,Katharagama,0.01,0.0,2026-04-06 22:05:25.268,4.0,4.6,6.5
+1357404,Menik Ganga,Katharagama,0.01,0.0,2026-04-06 23:06:16.885,4.0,4.6,6.5
+1357440,Menik Ganga,Katharagama,-0.01,0.0,2026-04-07 00:05:53.772,4.0,4.6,6.5
+1357465,Menik Ganga,Katharagama,-0.01,0.0,2026-04-07 01:06:09.983,4.0,4.6,6.5
