@@ -1335,3 +1335,7 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1361865,Deduru Oya,Moragaswewa,0.01,0.0,2026-04-11 21:02:08.076,4.75,6.0,7.0
 1361891,Deduru Oya,Moragaswewa,0.01,0.0,2026-04-11 21:41:05.383,4.75,6.0,7.0
 1361900,Deduru Oya,Moragaswewa,0.01,0.0,2026-04-11 22:02:05.232,4.75,6.0,7.0
+1361935,Deduru Oya,Moragaswewa,0.01,0.0,2026-04-11 23:02:29.460,4.75,6.0,7.0
+1361970,Deduru Oya,Moragaswewa,0.02,0.0,2026-04-12 00:02:59.327,4.75,6.0,7.0
+1362004,Deduru Oya,Moragaswewa,0.0,0.0,2026-04-12 01:03:24.730,4.75,6.0,7.0
+1362029,Deduru Oya,Moragaswewa,0.0,,2026-04-12 02:02:23.253,4.75,6.0,7.0
