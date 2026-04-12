@@ -1254,3 +1254,8 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1362461,Gin Ganga,Baddegama,0.84,0.0,2026-04-12 13:03:23.961,3.5,4.0,5.0
 1362515,Gin Ganga,Baddegama,0.86,0.0,2026-04-12 14:04:36.962,3.5,4.0,5.0
 1362530,Gin Ganga,Baddegama,0.86,0.0,2026-04-12 14:18:52.645,3.5,4.0,5.0
+1362554,Gin Ganga,Baddegama,0.91,0.0,2026-04-12 15:03:18.836,3.5,4.0,5.0
+1362559,Gin Ganga,Baddegama,0.91,0.75,2026-04-12 15:04:42.432,3.5,4.0,5.0
+1362603,Gin Ganga,Baddegama,0.95,0.0,2026-04-12 16:05:01.105,3.5,4.0,5.0
+1362629,Gin Ganga,Baddegama,0.99,0.0,2026-04-12 17:03:21.736,3.5,4.0,5.0
+1362660,Gin Ganga,Baddegama,1.01,0.0,2026-04-12 18:01:33.221,3.5,4.0,5.0
