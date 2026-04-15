@@ -1312,3 +1312,6 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1364996,Nilwala Ganga,Urawa,-0.02,,2026-04-15 07:09:31.146,2.5,4.0,6.0
 1364998,Nilwala Ganga,Urawa,-0.02,,2026-04-15 07:10:07.419,2.5,4.0,6.0
 1365038,Nilwala Ganga,Urawa,0.0,,2026-04-15 08:08:03.568,2.5,4.0,6.0
+1365081,Nilwala Ganga,Urawa,0.06,,2026-04-15 09:11:33.931,2.5,4.0,6.0
+1365097,Nilwala Ganga,Urawa,0.1,,2026-04-15 10:02:38.765,2.5,4.0,6.0
+1365160,Nilwala Ganga,Urawa,0.12,,2026-04-15 11:12:22.289,2.5,4.0,6.0
