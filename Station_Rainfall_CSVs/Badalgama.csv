@@ -1555,3 +1555,7 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1371854,Maha Oya,Badalgama,2.44,0.0,2026-04-22 18:03:49.784,5.0,6.2,9.6
 1371868,Maha Oya,Badalgama,2.44,0.0,2026-04-22 18:11:52.561,5.0,6.2,9.6
 1371900,Maha Oya,Badalgama,2.4,0.0,2026-04-22 19:06:40.601,5.0,6.2,9.6
+1371929,Maha Oya,Badalgama,2.37,0.0,2026-04-22 20:04:52.314,5.0,6.2,9.6
+1371979,Maha Oya,Badalgama,2.36,5.4,2026-04-22 21:07:45.567,5.0,6.2,9.6
+1371997,Maha Oya,Badalgama,2.35,0.0,2026-04-22 22:02:44.333,5.0,6.2,9.6
+1372000,Maha Oya,Badalgama,2.35,0.0,2026-04-22 22:02:59.769,5.0,6.2,9.6
