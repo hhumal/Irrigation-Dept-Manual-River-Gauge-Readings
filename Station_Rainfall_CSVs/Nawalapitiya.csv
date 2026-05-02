@@ -1739,3 +1739,7 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1381074,Mahaweli Ganga,Nawalapitiya,0.73,0.0,2026-05-02 20:00:59.062,3.5,5.0,6.0
 1381115,Mahaweli Ganga,Nawalapitiya,0.73,0.0,2026-05-02 21:01:41.448,3.5,5.0,6.0
 1381147,Mahaweli Ganga,Nawalapitiya,0.73,0.0,2026-05-02 22:00:24.392,3.5,5.0,6.0
+1381216,Mahaweli Ganga,Nawalapitiya,0.74,0.0,2026-05-03 00:00:31.286,3.5,5.0,6.0
+1381219,Mahaweli Ganga,Nawalapitiya,0.74,0.0,2026-05-03 00:01:00.163,3.5,5.0,6.0
+1381250,Mahaweli Ganga,Nawalapitiya,0.0,,2026-05-03 01:00:21.608,3.5,5.0,6.0
+1381282,Mahaweli Ganga,Nawalapitiya,0.74,0.3,2026-05-03 02:01:07.068,3.5,5.0,6.0
