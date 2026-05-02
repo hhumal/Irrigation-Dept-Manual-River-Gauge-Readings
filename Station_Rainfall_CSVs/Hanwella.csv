@@ -1727,3 +1727,6 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1380520,Kelani Ganga,Hanwella,0.48,0.0,2026-05-02 06:04:14.300,7.0,8.0,10.0
 1380555,Kelani Ganga,Hanwella,0.52,0.0,2026-05-02 07:04:00.779,7.0,8.0,10.0
 1380605,Kelani Ganga,Hanwella,0.58,0.0,2026-05-02 08:04:14.786,7.0,8.0,10.0
+1380635,Kelani Ganga,Hanwella,0.64,0.0,2026-05-02 09:02:40.260,7.0,8.0,10.0
+1380681,Kelani Ganga,Hanwella,0.68,0.0,2026-05-02 10:03:29.380,7.0,8.0,10.0
+1380726,Kelani Ganga,Hanwella,0.69,0.0,2026-05-02 11:03:54.272,7.0,8.0,10.0
