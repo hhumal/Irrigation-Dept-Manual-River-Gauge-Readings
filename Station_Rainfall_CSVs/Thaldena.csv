@@ -1825,3 +1825,7 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1384575,Mahaweli Ganga,Thaldena,0.3,0.0,2026-05-06 17:01:36.524,3.0,4.0,5.0
 1384620,Mahaweli Ganga,Thaldena,0.29,0.0,2026-05-06 18:02:14.989,3.0,4.0,5.0
 1384650,Mahaweli Ganga,Thaldena,0.28,0.0,2026-05-06 19:00:24.222,3.0,4.0,5.0
+1384717,Mahaweli Ganga,Thaldena,0.3,1.4,2026-05-06 20:09:38.012,3.0,4.0,5.0
+1384749,Mahaweli Ganga,Thaldena,0.35,17.8,2026-05-06 21:06:06.174,3.0,4.0,5.0
+1384793,Mahaweli Ganga,Thaldena,0.28,1.8,2026-05-06 22:11:08.458,3.0,4.0,5.0
+1384808,Mahaweli Ganga,Thaldena,0.3,0.8,2026-05-06 23:01:49.656,3.0,4.0,5.0
