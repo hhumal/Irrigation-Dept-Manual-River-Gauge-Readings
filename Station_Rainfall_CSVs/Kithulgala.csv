@@ -1835,3 +1835,7 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1385326,Kelani Ganga,Kithulgala,1.43,0.0,2026-05-07 13:02:58.867,3.0,4.0,6.0
 1385365,Kelani Ganga,Kithulgala,1.45,0.0,2026-05-07 14:02:35.579,3.0,4.0,6.0
 1385399,Kelani Ganga,Kithulgala,1.45,0.0,2026-05-07 15:01:18.344,3.0,4.0,6.0
+1385458,Kelani Ganga,Kithulgala,1.45,3.0,2026-05-07 16:04:28.575,3.0,4.0,6.0
+1385495,Kelani Ganga,Kithulgala,1.75,0.5,2026-05-07 17:02:54.220,3.0,4.0,6.0
+1385533,Kelani Ganga,Kithulgala,1.63,0.0,2026-05-07 18:02:26.466,3.0,4.0,6.0
+1385589,Kelani Ganga,Kithulgala,1.63,0.7,2026-05-07 19:07:27.613,3.0,4.0,6.0
