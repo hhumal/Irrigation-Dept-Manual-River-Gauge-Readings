@@ -1868,3 +1868,6 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1386393,Aththanagalu Oya,Dunamale,1.05,0.0,2026-05-08 17:01:01.565,3.3,4.4,5.5
 1386459,Aththanagalu Oya,Dunamale,1.04,0.0,2026-05-08 18:05:43.862,3.3,4.4,5.5
 1386486,Aththanagalu Oya,Dunamale,1.03,0.0,2026-05-08 19:04:41.240,3.3,4.4,5.5
+1386541,Aththanagalu Oya,Dunamale,1.03,0.6,2026-05-08 20:08:34.068,3.3,4.4,5.5
+1386572,Aththanagalu Oya,Dunamale,1.04,2.0,2026-05-08 21:06:17.774,3.3,4.4,5.5
+1386620,Aththanagalu Oya,Dunamale,1.1,0.0,2026-05-08 22:31:47.947,3.3,4.4,5.5
