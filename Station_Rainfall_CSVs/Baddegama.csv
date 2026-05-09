@@ -1863,8 +1863,8 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1385618,Gin Ganga,Baddegama,1.96,,2026-05-07 20:05:54.886,3.5,4.0,5.0
 1385671,Gin Ganga,Baddegama,1.91,27.2,2026-05-07 21:14:32.730,3.5,4.0,5.0
 1385677,Gin Ganga,Baddegama,1.88,0.5,2026-05-07 22:01:20.197,3.5,4.0,5.0
-1385770,Gin Ganga,Baddegama,0.86,0.0,2026-05-08 00:17:04.272,3.5,4.0,5.0
-1385771,Gin Ganga,Baddegama,0.84,0.0,2026-05-08 00:17:05.717,3.5,4.0,5.0
+1385770,Gin Ganga,Baddegama,1.86,0.0,2026-05-08 00:17:04.272,3.5,4.0,5.0
+1385771,Gin Ganga,Baddegama,1.84,0.0,2026-05-08 00:17:05.717,3.5,4.0,5.0
 1385840,Gin Ganga,Baddegama,1.8,0.0,2026-05-08 02:17:44.616,3.5,4.0,5.0
 1385841,Gin Ganga,Baddegama,1.75,0.0,2026-05-08 02:17:46.097,3.5,4.0,5.0
 1385867,Gin Ganga,Baddegama,1.69,0.0,2026-05-08 03:08:04.917,3.5,4.0,5.0
@@ -1900,3 +1900,6 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1387020,Gin Ganga,Baddegama,2.06,0.0,2026-05-09 09:07:59.652,3.5,4.0,5.0
 1387069,Gin Ganga,Baddegama,1.99,0.0,2026-05-09 10:09:07.258,3.5,4.0,5.0
 1387099,Gin Ganga,Baddegama,1.94,0.0,2026-05-09 11:05:26.388,3.5,4.0,5.0
+1387145,Gin Ganga,Baddegama,1.89,0.0,2026-05-09 12:09:08.530,3.5,4.0,5.0
+1387165,Gin Ganga,Baddegama,1.85,0.0,2026-05-09 13:03:57.816,3.5,4.0,5.0
+1387223,Gin Ganga,Baddegama,1.8,0.0,2026-05-09 14:09:27.842,3.5,4.0,5.0
