@@ -2157,6 +2157,9 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1398695,Nilwala Ganga,Thalgahagoda,0.35,0.0,2026-05-22 01:03:35.889,1.4,1.7,2.8
 1398745,Nilwala Ganga,Thalgahagoda,0.31,0.0,2026-05-22 02:48:20.691,1.4,1.7,2.8
 1398767,Nilwala Ganga,Thalgahagoda,0.29,0.0,2026-05-22 03:05:26.577,1.4,1.7,2.8
+1398811,Nilwala Ganga,Thalgahagoda,0.27,1.1,2026-05-22 04:13:13.053,1.4,1.7,2.8
+1398852,Nilwala Ganga,Thalgahagoda,0.26,0.0,2026-05-22 05:37:13.425,1.4,1.7,2.8
+1398884,Nilwala Ganga,Thalgahagoda,0.25,0.0,2026-05-22 06:06:27.330,1.4,1.7,2.8
 1398911,Nilwala Ganga,Thalgahagoda,0.25,0.0,2026-05-22 07:04:34.438,1.4,1.7,2.8
 1398973,Nilwala Ganga,Thalgahagoda,0.25,0.0,2026-05-22 08:14:17.519,1.4,1.7,2.8
 1398993,Nilwala Ganga,Thalgahagoda,0.3,0.0,2026-05-22 09:04:10.314,1.4,1.7,2.8
@@ -2190,3 +2193,6 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1400080,Nilwala Ganga,Thalgahagoda,0.38,0.0,2026-05-23 13:11:21.757,1.4,1.7,2.8
 1400108,Nilwala Ganga,Thalgahagoda,0.35,0.0,2026-05-23 14:05:01.880,1.4,1.7,2.8
 1400150,Nilwala Ganga,Thalgahagoda,0.32,0.0,2026-05-23 15:05:46.328,1.4,1.7,2.8
+1400182,Nilwala Ganga,Thalgahagoda,0.3,0.0,2026-05-23 16:03:38.391,1.4,1.7,2.8
+1400212,Nilwala Ganga,Thalgahagoda,0.3,0.0,2026-05-23 17:01:22.961,1.4,1.7,2.8
+1400266,Nilwala Ganga,Thalgahagoda,0.3,0.0,2026-05-23 18:02:43.192,1.4,1.7,2.8
