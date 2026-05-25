@@ -2279,3 +2279,6 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1402239,Kelani Ganga,Norwood,0.63,0.0,2026-05-25 21:08:25.728,1.5,3.0,4.5
 1402256,Kelani Ganga,Norwood,0.63,0.0,2026-05-25 22:01:57.375,1.5,3.0,4.5
 1402299,Kelani Ganga,Norwood,0.63,0.0,2026-05-25 23:03:50.598,1.5,3.0,4.5
+1402346,Kelani Ganga,Norwood,0.63,0.3,2026-05-26 00:06:12.250,1.5,3.0,4.5
+1402367,Kelani Ganga,Norwood,0.62,0.5,2026-05-26 01:02:51.686,1.5,3.0,4.5
+1402416,Kelani Ganga,Norwood,0.63,1.2,2026-05-26 02:38:23.693,1.5,3.0,4.5
