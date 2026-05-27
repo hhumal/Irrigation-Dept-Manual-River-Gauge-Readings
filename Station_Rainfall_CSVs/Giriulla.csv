@@ -2315,6 +2315,7 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1402632,Maha Oya,Giriulla,1.26,0.0,2026-05-26 08:05:01.456,5.5,6.5,7.5
 1402659,Maha Oya,Giriulla,1.26,0.0,2026-05-26 09:03:24.225,5.5,6.5,7.5
 1402693,Maha Oya,Giriulla,1.26,0.0,2026-05-26 10:01:58.577,5.5,6.5,7.5
+1402753,Maha Oya,Giriulla,1.26,0.0,2026-05-26 11:04:29.422,5.5,6.5,7.5
 1402789,Maha Oya,Giriulla,1.26,0.0,2026-05-26 12:04:39.357,5.5,6.5,7.5
 1402814,Maha Oya,Giriulla,1.25,0.0,2026-05-26 13:01:39.689,5.5,6.5,7.5
 1402856,Maha Oya,Giriulla,1.25,0.0,2026-05-26 14:01:42.806,5.5,6.5,7.5
@@ -2352,3 +2353,7 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1404065,Maha Oya,Giriulla,1.18,0.0,2026-05-27 21:03:16.683,5.5,6.5,7.5
 1404113,Maha Oya,Giriulla,1.18,0.0,2026-05-27 22:04:13.986,5.5,6.5,7.5
 1404141,Maha Oya,Giriulla,1.18,0.0,2026-05-27 23:03:56.390,5.5,6.5,7.5
+1404176,Maha Oya,Giriulla,1.18,0.0,2026-05-28 00:03:01.963,5.5,6.5,7.5
+1404207,Maha Oya,Giriulla,1.18,0.0,2026-05-28 01:03:10.167,5.5,6.5,7.5
+1404244,Maha Oya,Giriulla,1.18,0.0,2026-05-28 02:03:35.367,5.5,6.5,7.5
+1404279,Maha Oya,Giriulla,1.18,0.0,2026-05-28 03:04:03.280,5.5,6.5,7.5
