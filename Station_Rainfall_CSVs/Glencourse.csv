@@ -2554,3 +2554,7 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1411450,Kelani Ganga,Glencourse,11.5,0.0,2026-06-04 21:04:20.891,15.0,16.5,19.0
 1411488,Kelani Ganga,Glencourse,11.58,0.0,2026-06-04 22:04:26.391,15.0,16.5,19.0
 1411532,Kelani Ganga,Glencourse,11.65,8.2,2026-06-04 23:07:43.684,15.0,16.5,19.0
+1411567,Kelani Ganga,Glencourse,11.7,1.0,2026-06-05 00:07:46.360,15.0,16.5,19.0
+1411607,Kelani Ganga,Glencourse,11.73,0.0,2026-06-05 01:09:38.546,15.0,16.5,19.0
+1411637,Kelani Ganga,Glencourse,11.73,3.0,2026-06-05 02:09:15.698,15.0,16.5,19.0
+1411664,Kelani Ganga,Glencourse,11.71,0.0,2026-06-05 03:05:09.144,15.0,16.5,19.0
