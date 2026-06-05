@@ -2572,3 +2572,7 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1412355,Maha Oya,Giriulla,1.7,0.0,2026-06-05 21:02:07.752,5.5,6.5,7.5
 1412412,Maha Oya,Giriulla,1.69,0.0,2026-06-05 22:05:06.948,5.5,6.5,7.5
 1412432,Maha Oya,Giriulla,1.69,0.8,2026-06-05 23:02:25.822,5.5,6.5,7.5
+1412461,Maha Oya,Giriulla,1.69,0.0,2026-06-06 00:02:50.481,5.5,6.5,7.5
+1412503,Maha Oya,Giriulla,1.69,0.0,2026-06-06 01:04:29.045,5.5,6.5,7.5
+1412534,Maha Oya,Giriulla,1.68,4.2,2026-06-06 02:04:03.805,5.5,6.5,7.5
+1412569,Maha Oya,Giriulla,1.68,0.3,2026-06-06 03:03:00.566,5.5,6.5,7.5
