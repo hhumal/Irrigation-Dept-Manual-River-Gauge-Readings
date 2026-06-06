@@ -2506,3 +2506,6 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1412748,Nilwala Ganga,Thalgahagoda,0.45,0.0,2026-06-06 07:14:35.697,1.4,1.7,2.8
 1412790,Nilwala Ganga,Thalgahagoda,0.46,0.0,2026-06-06 08:20:47.621,1.4,1.7,2.8
 1412820,Nilwala Ganga,Thalgahagoda,0.48,0.0,2026-06-06 09:05:13.036,1.4,1.7,2.8
+1412869,Nilwala Ganga,Thalgahagoda,0.5,1.5,2026-06-06 10:19:18.913,1.4,1.7,2.8
+1412903,Nilwala Ganga,Thalgahagoda,0.52,0.0,2026-06-06 11:07:39.069,1.4,1.7,2.8
+1412936,Nilwala Ganga,Thalgahagoda,0.46,0.0,2026-06-06 12:04:07.648,1.4,1.7,2.8
