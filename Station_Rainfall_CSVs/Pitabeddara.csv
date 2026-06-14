@@ -2738,3 +2738,6 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1420325,Nilwala Ganga,Pitabeddara,1.06,0.0,2026-06-14 14:03:08.958,4.0,5.0,6.5
 1420373,Nilwala Ganga,Pitabeddara,1.03,0.0,2026-06-14 15:03:43.627,4.0,5.0,6.5
 1420419,Nilwala Ganga,Pitabeddara,0.99,0.0,2026-06-14 16:08:13.251,4.0,5.0,6.5
+1420439,Nilwala Ganga,Pitabeddara,0.98,0.0,2026-06-14 17:01:39.853,4.0,5.0,6.5
+1420487,Nilwala Ganga,Pitabeddara,0.97,0.0,2026-06-14 18:03:04.331,4.0,5.0,6.5
+1420544,Nilwala Ganga,Pitabeddara,0.96,,2026-06-14 19:21:15.306,4.0,5.0,6.5
