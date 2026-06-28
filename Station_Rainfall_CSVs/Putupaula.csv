@@ -2781,3 +2781,7 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1433125,Kalu Ganga,Putupaula,0.77,0.0,2026-06-28 13:01:15.153,3.0,4.0,5.0
 1433181,Kalu Ganga,Putupaula,0.85,0.0,2026-06-28 14:02:58.975,3.0,4.0,5.0
 1433218,Kalu Ganga,Putupaula,0.9,0.0,2026-06-28 15:02:38.576,3.0,4.0,5.0
+1433263,Kalu Ganga,Putupaula,0.88,0.0,2026-06-28 16:05:16.481,3.0,4.0,5.0
+1433296,Kalu Ganga,Putupaula,0.79,0.6,2026-06-28 17:03:06.631,3.0,4.0,5.0
+1433319,Kalu Ganga,Putupaula,0.75,5.8,2026-06-28 18:00:15.196,3.0,4.0,5.0
+1433389,Kalu Ganga,Putupaula,0.72,0.0,2026-06-28 19:14:07.368,3.0,4.0,5.0
