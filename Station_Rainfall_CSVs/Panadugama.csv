@@ -3142,3 +3142,11 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1433562,Nilwala Ganga,Panadugama,2.63,0.0,2026-06-29 00:06:29.765,5.0,6.0,7.5
 1433591,Nilwala Ganga,Panadugama,2.64,0.0,2026-06-29 01:03:51.100,5.0,6.0,7.5
 1433626,Nilwala Ganga,Panadugama,2.65,0.0,2026-06-29 02:06:17.654,5.0,6.0,7.5
+1433668,Nilwala Ganga,Panadugama,2.65,0.0,2026-06-29 03:06:50.596,5.0,6.0,7.5
+1433706,Nilwala Ganga,Panadugama,2.67,3.7,2026-06-29 04:08:06.408,5.0,6.0,7.5
+1433750,Nilwala Ganga,Panadugama,2.86,35.7,2026-06-29 05:17:23.777,5.0,6.0,7.5
+1433791,Nilwala Ganga,Panadugama,2.98,7.1,2026-06-29 06:12:02.967,5.0,6.0,7.5
+1433834,Nilwala Ganga,Panadugama,3.24,10.4,2026-06-29 07:24:08.143,5.0,6.0,7.5
+1433870,Nilwala Ganga,Panadugama,3.38,6.5,2026-06-29 08:12:15.980,5.0,6.0,7.5
+1433910,Nilwala Ganga,Panadugama,3.59,2.9,2026-06-29 09:10:58.865,5.0,6.0,7.5
+1433943,Nilwala Ganga,Panadugama,3.89,,2026-06-29 10:06:27.981,5.0,6.0,7.5
