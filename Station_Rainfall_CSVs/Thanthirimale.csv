@@ -1718,3 +1718,6 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1445225,Malwathu Oya,Thanthirimale,1.04,0.0,2026-07-11 16:00:20.221,5.0,6.8,7.8
 1445266,Malwathu Oya,Thanthirimale,1.04,0.0,2026-07-11 17:00:31.064,5.0,6.8,7.8
 1445306,Malwathu Oya,Thanthirimale,1.04,0.0,2026-07-11 18:00:48.064,5.0,6.8,7.8
+1445777,Malwathu Oya,Thanthirimale,1.08,0.0,2026-07-12 07:00:46.007,5.0,6.8,7.8
+1445826,Malwathu Oya,Thanthirimale,1.08,0.0,2026-07-12 08:02:35.644,5.0,6.8,7.8
+1445858,Malwathu Oya,Thanthirimale,1.08,0.0,2026-07-12 09:00:23.907,5.0,6.8,7.8
