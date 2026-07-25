@@ -3734,3 +3734,7 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1457980,Kirindi Oya,Kuda Oya,1.0,0.0,2026-07-25 14:00:29.892,6.9,8.4,8.8
 1458020,Kirindi Oya,Kuda Oya,1.0,0.0,2026-07-25 15:00:26.191,6.9,8.4,8.8
 1458040,Kirindi Oya,Kuda Oya,1.0,0.0,2026-07-25 15:02:37.197,6.9,8.4,8.8
+1458064,Kirindi Oya,Kuda Oya,0.99,0.0,2026-07-25 16:00:59.680,6.9,8.4,8.8
+1458120,Kirindi Oya,Kuda Oya,0.99,0.0,2026-07-25 17:03:37.028,6.9,8.4,8.8
+1458139,Kirindi Oya,Kuda Oya,0.99,0.0,2026-07-25 18:00:58.905,6.9,8.4,8.8
+1458201,Kirindi Oya,Kuda Oya,0.99,0.0,2026-07-25 19:04:57.043,6.9,8.4,8.8
