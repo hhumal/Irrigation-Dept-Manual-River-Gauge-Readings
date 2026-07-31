@@ -3874,3 +3874,6 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1463164,Kalu Ganga,Rathnapura,1.01,0.0,2026-07-31 06:05:47.765,5.2,7.5,9.5
 1463199,Kalu Ganga,Rathnapura,1.03,0.0,2026-07-31 07:05:42.890,5.2,7.5,9.5
 1463254,Kalu Ganga,Rathnapura,1.06,0.0,2026-07-31 08:22:40.386,5.2,7.5,9.5
+1463280,Kalu Ganga,Rathnapura,1.09,7.8,2026-07-31 09:04:45.274,5.2,7.5,9.5
+1463320,Kalu Ganga,Rathnapura,1.11,0.0,2026-07-31 10:03:36.488,5.2,7.5,9.5
+1463414,Kalu Ganga,Rathnapura,1.17,0.0,2026-07-31 12:11:53.282,5.2,7.5,9.5
