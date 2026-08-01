@@ -3482,3 +3482,6 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1464214,Kalu Ganga,Kalawellawa (Millakanda),3.97,0.0,2026-08-01 10:03:13.676,5.0,6.5,8.0
 1464255,Kalu Ganga,Kalawellawa (Millakanda),4.05,0.0,2026-08-01 11:02:44.728,5.0,6.5,8.0
 1464292,Kalu Ganga,Kalawellawa (Millakanda),4.09,0.0,2026-08-01 12:02:27.796,5.0,6.5,8.0
+1464344,Kalu Ganga,Kalawellawa (Millakanda),4.15,3.5,2026-08-01 13:04:20.299,5.0,6.5,8.0
+1464376,Kalu Ganga,Kalawellawa (Millakanda),4.21,0.0,2026-08-01 14:02:24.296,5.0,6.5,8.0
+1464423,Kalu Ganga,Kalawellawa (Millakanda),4.24,0.0,2026-08-01 15:02:43.848,5.0,6.5,8.0
