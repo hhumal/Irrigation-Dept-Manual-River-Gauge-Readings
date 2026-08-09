@@ -4033,3 +4033,7 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1471849,Kalu Ganga,Magura,1.82,0.0,2026-08-09 16:04:50.842,4.0,6.0,7.5
 1471903,Kalu Ganga,Magura,1.8,0.0,2026-08-09 17:12:48.636,4.0,6.0,7.5
 1471910,Kalu Ganga,Magura,1.76,0.0,2026-08-09 18:01:40.172,4.0,6.0,7.5
+1471979,Kalu Ganga,Magura,1.73,0.0,2026-08-09 19:10:14.544,4.0,6.0,7.5
+1472017,Kalu Ganga,Magura,1.71,1.5,2026-08-09 20:10:02.394,4.0,6.0,7.5
+1472047,Kalu Ganga,Magura,1.69,0.7,2026-08-09 21:04:40.526,4.0,6.0,7.5
+1472089,Kalu Ganga,Magura,1.68,0.0,2026-08-09 22:09:30.488,4.0,6.0,7.5
