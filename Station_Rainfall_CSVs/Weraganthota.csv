@@ -2479,6 +2479,8 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1488181,Mahaweli Ganga,Weraganthota,-3.3,0.0,2026-08-27 12:01:19.057,5.0,6.0,8.0
 1488228,Mahaweli Ganga,Weraganthota,-3.06,0.0,2026-08-27 13:01:43.872,5.0,6.0,8.0
 1488264,Mahaweli Ganga,Weraganthota,-3.04,0.0,2026-08-27 14:01:16.578,5.0,6.0,8.0
+1488319,Mahaweli Ganga,Weraganthota,-3.1,0.0,2026-08-27 15:02:46.927,5.0,6.0,8.0
+1488346,Mahaweli Ganga,Weraganthota,-3.18,0.0,2026-08-27 16:01:51.178,5.0,6.0,8.0
 1488383,Mahaweli Ganga,Weraganthota,-3.25,0.0,2026-08-27 17:01:28.653,5.0,6.0,8.0
 1488431,Mahaweli Ganga,Weraganthota,-3.28,0.0,2026-08-27 18:02:01.772,5.0,6.0,8.0
 1488904,Mahaweli Ganga,Weraganthota,-3.12,0.0,2026-08-28 07:01:25.544,5.0,6.0,8.0
@@ -2494,3 +2496,10 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1489300,Mahaweli Ganga,Weraganthota,-3.29,0.0,2026-08-28 16:56:46.238,5.0,6.0,8.0
 1489304,Mahaweli Ganga,Weraganthota,-3.29,0.0,2026-08-28 17:00:29.646,5.0,6.0,8.0
 1489344,Mahaweli Ganga,Weraganthota,-3.32,0.0,2026-08-28 18:00:33.570,5.0,6.0,8.0
+1489787,Mahaweli Ganga,Weraganthota,-2.92,0.0,2026-08-29 06:03:21.630,5.0,6.0,8.0
+1489850,Mahaweli Ganga,Weraganthota,-3.08,0.0,2026-08-29 07:15:51.155,5.0,6.0,8.0
+1489872,Mahaweli Ganga,Weraganthota,-3.17,0.0,2026-08-29 08:04:02.162,5.0,6.0,8.0
+1489898,Mahaweli Ganga,Weraganthota,-3.24,0.0,2026-08-29 09:01:22.104,5.0,6.0,8.0
+1489940,Mahaweli Ganga,Weraganthota,-3.32,0.0,2026-08-29 10:01:47.943,5.0,6.0,8.0
+1489984,Mahaweli Ganga,Weraganthota,-3.36,0.0,2026-08-29 11:02:12.959,5.0,6.0,8.0
+1490027,Mahaweli Ganga,Weraganthota,-3.4,0.0,2026-08-29 12:02:38.163,5.0,6.0,8.0

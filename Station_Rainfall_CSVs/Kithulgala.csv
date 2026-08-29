@@ -4517,6 +4517,8 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1488213,Kelani Ganga,Kithulgala,1.83,7.0,2026-08-27 12:06:25.573,3.0,4.0,6.0
 1488251,Kelani Ganga,Kithulgala,1.78,0.4,2026-08-27 13:07:27.202,3.0,4.0,6.0
 1488270,Kelani Ganga,Kithulgala,1.78,0.0,2026-08-27 14:02:47.634,3.0,4.0,6.0
+1488336,Kelani Ganga,Kithulgala,1.78,0.0,2026-08-27 15:06:09.801,3.0,4.0,6.0
+1488373,Kelani Ganga,Kithulgala,1.78,0.0,2026-08-27 16:08:18.082,3.0,4.0,6.0
 1488408,Kelani Ganga,Kithulgala,1.78,0.0,2026-08-27 17:05:28.814,3.0,4.0,6.0
 1488450,Kelani Ganga,Kithulgala,1.74,0.0,2026-08-27 18:03:42.287,3.0,4.0,6.0
 1488469,Kelani Ganga,Kithulgala,1.97,0.0,2026-08-27 19:01:52.481,3.0,4.0,6.0
@@ -4549,3 +4551,12 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1489616,Kelani Ganga,Kithulgala,1.98,0.0,2026-08-29 01:03:12.592,3.0,4.0,6.0
 1489644,Kelani Ganga,Kithulgala,2.02,0.0,2026-08-29 02:02:23.097,3.0,4.0,6.0
 1489676,Kelani Ganga,Kithulgala,2.05,0.0,2026-08-29 03:02:22.958,3.0,4.0,6.0
+1489721,Kelani Ganga,Kithulgala,2.05,0.0,2026-08-29 04:03:50.978,3.0,4.0,6.0
+1489746,Kelani Ganga,Kithulgala,2.05,0.0,2026-08-29 05:02:08.865,3.0,4.0,6.0
+1489796,Kelani Ganga,Kithulgala,1.98,1.5,2026-08-29 06:05:05.690,3.0,4.0,6.0
+1489818,Kelani Ganga,Kithulgala,1.92,0.0,2026-08-29 07:01:10.101,3.0,4.0,6.0
+1489858,Kelani Ganga,Kithulgala,1.9,4.0,2026-08-29 08:01:17.448,3.0,4.0,6.0
+1489903,Kelani Ganga,Kithulgala,1.8,0.0,2026-08-29 09:01:43.023,3.0,4.0,6.0
+1489970,Kelani Ganga,Kithulgala,1.8,0.0,2026-08-29 10:08:12.481,3.0,4.0,6.0
+1489995,Kelani Ganga,Kithulgala,1.8,6.0,2026-08-29 11:03:51.740,3.0,4.0,6.0
+1490031,Kelani Ganga,Kithulgala,1.82,0.0,2026-08-29 12:02:54.624,3.0,4.0,6.0

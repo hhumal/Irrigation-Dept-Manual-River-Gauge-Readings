@@ -4441,6 +4441,8 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1488179,Nilwala Ganga,Thalgahagoda,0.39,2.1,2026-08-27 12:00:50.384,1.4,1.7,2.8
 1488257,Nilwala Ganga,Thalgahagoda,0.45,0.0,2026-08-27 13:19:09.175,1.4,1.7,2.8
 1488259,Nilwala Ganga,Thalgahagoda,0.55,4.1,2026-08-27 14:00:23.575,1.4,1.7,2.8
+1488307,Nilwala Ganga,Thalgahagoda,0.59,0.0,2026-08-27 15:01:22.575,1.4,1.7,2.8
+1488355,Nilwala Ganga,Thalgahagoda,0.6,0.0,2026-08-27 16:03:02.902,1.4,1.7,2.8
 1488400,Nilwala Ganga,Thalgahagoda,0.56,0.0,2026-08-27 17:03:33.229,1.4,1.7,2.8
 1488455,Nilwala Ganga,Thalgahagoda,0.54,0.0,2026-08-27 18:06:36.346,1.4,1.7,2.8
 1488495,Nilwala Ganga,Thalgahagoda,0.52,0.0,2026-08-27 19:12:16.582,1.4,1.7,2.8
@@ -4469,3 +4471,15 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1489564,Nilwala Ganga,Thalgahagoda,0.45,8.5,2026-08-28 23:17:55.001,1.4,1.7,2.8
 1489599,Nilwala Ganga,Thalgahagoda,0.42,4.5,2026-08-29 00:09:28.003,1.4,1.7,2.8
 1489615,Nilwala Ganga,Thalgahagoda,0.42,0.0,2026-08-29 01:02:44.108,1.4,1.7,2.8
+1489704,Nilwala Ganga,Thalgahagoda,0.46,0.0,2026-08-29 03:53:56.531,1.4,1.7,2.8
+1489734,Nilwala Ganga,Thalgahagoda,0.59,9.1,2026-08-29 04:14:21.153,1.4,1.7,2.8
+1489738,Nilwala Ganga,Thalgahagoda,0.61,0.0,2026-08-29 05:00:38.044,1.4,1.7,2.8
+1489772,Nilwala Ganga,Thalgahagoda,0.62,0.0,2026-08-29 05:32:59.573,1.4,1.7,2.8
+1489810,Nilwala Ganga,Thalgahagoda,0.68,0.0,2026-08-29 06:10:59.370,1.4,1.7,2.8
+1489822,Nilwala Ganga,Thalgahagoda,0.68,0.0,2026-08-29 07:01:37.330,1.4,1.7,2.8
+1489883,Nilwala Ganga,Thalgahagoda,0.63,0.0,2026-08-29 08:07:25.809,1.4,1.7,2.8
+1489928,Nilwala Ganga,Thalgahagoda,0.58,0.0,2026-08-29 09:07:41.953,1.4,1.7,2.8
+1489931,Nilwala Ganga,Thalgahagoda,0.58,0.0,2026-08-29 09:08:30.847,1.4,1.7,2.8
+1489974,Nilwala Ganga,Thalgahagoda,0.58,0.0,2026-08-29 10:20:05.948,1.4,1.7,2.8
+1490011,Nilwala Ganga,Thalgahagoda,0.58,0.0,2026-08-29 11:10:29.976,1.4,1.7,2.8
+1490057,Nilwala Ganga,Thalgahagoda,0.58,0.0,2026-08-29 12:09:22.001,1.4,1.7,2.8
