@@ -4607,6 +4607,7 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1491737,Nilwala Ganga,Urawa,0.19,0.0,2026-08-31 08:10:36.789,2.5,4.0,6.0
 1491780,Nilwala Ganga,Urawa,0.18,0.0,2026-08-31 09:07:36.350,2.5,4.0,6.0
 1491808,Nilwala Ganga,Urawa,0.18,0.0,2026-08-31 10:05:42.427,2.5,4.0,6.0
+1491841,Nilwala Ganga,Urawa,0.18,0.0,2026-08-31 11:03:07.415,2.5,4.0,6.0
 1491884,Nilwala Ganga,Urawa,0.18,0.0,2026-08-31 12:02:57.695,2.5,4.0,6.0
 1491943,Nilwala Ganga,Urawa,0.1,0.0,2026-08-31 13:10:46.095,2.5,4.0,6.0
 1491988,Nilwala Ganga,Urawa,0.18,0.0,2026-08-31 14:14:43.215,2.5,4.0,6.0
@@ -4638,3 +4639,9 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1493011,Nilwala Ganga,Urawa,0.11,0.0,2026-09-01 17:10:58.537,2.5,4.0,6.0
 1493054,Nilwala Ganga,Urawa,0.12,0.0,2026-09-01 18:10:32.821,2.5,4.0,6.0
 1493056,Nilwala Ganga,Urawa,0.12,0.0,2026-09-01 18:17:15.315,2.5,4.0,6.0
+1493093,Nilwala Ganga,Urawa,0.12,0.0,2026-09-01 19:15:16.555,2.5,4.0,6.0
+1493128,Nilwala Ganga,Urawa,0.12,0.0,2026-09-01 20:14:54.815,2.5,4.0,6.0
+1493161,Nilwala Ganga,Urawa,0.13,0.0,2026-09-01 21:05:42.790,2.5,4.0,6.0
+1493191,Nilwala Ganga,Urawa,0.13,0.0,2026-09-01 22:04:48.510,2.5,4.0,6.0
+1493228,Nilwala Ganga,Urawa,0.14,0.0,2026-09-01 23:04:35.332,2.5,4.0,6.0
+1493260,Nilwala Ganga,Urawa,0.14,0.0,2026-09-02 00:04:40.201,2.5,4.0,6.0
