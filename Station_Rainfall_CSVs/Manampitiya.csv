@@ -4738,3 +4738,7 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1496830,Mahaweli Ganga,Manampitiya,0.08,0.0,2026-09-05 21:01:46.717,3.0,4.3,6.0
 1496878,Mahaweli Ganga,Manampitiya,0.1,0.0,2026-09-05 22:03:15.727,3.0,4.3,6.0
 1496903,Mahaweli Ganga,Manampitiya,0.12,0.0,2026-09-05 23:00:44.929,3.0,4.3,6.0
+1496943,Mahaweli Ganga,Manampitiya,0.15,0.0,2026-09-06 00:01:07.330,3.0,4.3,6.0
+1496980,Mahaweli Ganga,Manampitiya,0.16,0.0,2026-09-06 01:01:13.267,3.0,4.3,6.0
+1497030,Mahaweli Ganga,Manampitiya,-0.16,0.0,2026-09-06 02:04:34.341,3.0,4.3,6.0
+1497050,Mahaweli Ganga,Manampitiya,0.14,0.0,2026-09-06 03:01:55.030,3.0,4.3,6.0
