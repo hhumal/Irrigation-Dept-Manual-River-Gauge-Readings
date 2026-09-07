@@ -4817,9 +4817,9 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1496895,Nilwala Ganga,Panadugama,2.43,0.0,2026-09-05 22:08:20.913,5.0,6.0,7.5
 1496930,Nilwala Ganga,Panadugama,2.43,0.0,2026-09-05 23:08:16.981,5.0,6.0,7.5
 1496972,Nilwala Ganga,Panadugama,2.43,0.0,2026-09-06 00:12:38.268,5.0,6.0,7.5
-1497004,Nilwala Ganga,Panadugama,2.22,0.0,2026-09-06 01:06:35.044,5.0,6.0,7.5
-1497070,Nilwala Ganga,Panadugama,2.32,0.0,2026-09-06 03:06:43.303,5.0,6.0,7.5
-1497112,Nilwala Ganga,Panadugama,2.22,0.0,2026-09-06 04:06:31.656,5.0,6.0,7.5
+1497004,Nilwala Ganga,Panadugama,2.42,0.0,2026-09-06 01:06:35.044,5.0,6.0,7.5
+1497070,Nilwala Ganga,Panadugama,2.42,0.0,2026-09-06 03:06:43.303,5.0,6.0,7.5
+1497112,Nilwala Ganga,Panadugama,2.42,0.0,2026-09-06 04:06:31.656,5.0,6.0,7.5
 1497196,Nilwala Ganga,Panadugama,2.42,0.0,2026-09-06 06:13:41.716,5.0,6.0,7.5
 1497228,Nilwala Ganga,Panadugama,2.4,0.0,2026-09-06 07:09:09.734,5.0,6.0,7.5
 1497269,Nilwala Ganga,Panadugama,2.38,0.0,2026-09-06 08:08:08.932,5.0,6.0,7.5
@@ -4854,3 +4854,12 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1498371,Nilwala Ganga,Panadugama,2.22,0.0,2026-09-07 12:10:45.135,5.0,6.0,7.5
 1498400,Nilwala Ganga,Panadugama,2.22,0.0,2026-09-07 13:04:39.432,5.0,6.0,7.5
 1498450,Nilwala Ganga,Panadugama,2.22,0.0,2026-09-07 14:10:08.709,5.0,6.0,7.5
+1498495,Nilwala Ganga,Panadugama,2.22,0.0,2026-09-07 15:12:25.729,5.0,6.0,7.5
+1498529,Nilwala Ganga,Panadugama,2.22,0.0,2026-09-07 16:07:47.770,5.0,6.0,7.5
+1498551,Nilwala Ganga,Panadugama,2.22,0.0,2026-09-07 17:03:07.059,5.0,6.0,7.5
+1498620,Nilwala Ganga,Panadugama,2.22,0.0,2026-09-07 18:14:29.154,5.0,6.0,7.5
+1498660,Nilwala Ganga,Panadugama,2.21,0.0,2026-09-07 19:25:42.984,5.0,6.0,7.5
+1498693,Nilwala Ganga,Panadugama,2.21,0.0,2026-09-07 20:06:45.672,5.0,6.0,7.5
+1498736,Nilwala Ganga,Panadugama,2.21,0.0,2026-09-07 21:09:55.697,5.0,6.0,7.5
+1498740,Nilwala Ganga,Panadugama,2.21,0.0,2026-09-07 21:15:36.188,5.0,6.0,7.5
+1498777,Nilwala Ganga,Panadugama,2.21,0.0,2026-09-07 22:09:00.041,5.0,6.0,7.5
