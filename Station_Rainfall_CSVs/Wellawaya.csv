@@ -5121,3 +5121,5 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1509708,Kirindi Oya,Wellawaya,1.02,0.0,2026-09-19 19:02:22.038,4.4,5.4,5.9
 1509748,Kirindi Oya,Wellawaya,1.02,0.0,2026-09-19 20:02:36.659,4.4,5.4,5.9
 1509786,Kirindi Oya,Wellawaya,1.0,0.0,2026-09-19 21:02:30.834,4.4,5.4,5.9
+1509829,Kirindi Oya,Wellawaya,0.98,0.0,2026-09-19 22:03:47.853,4.4,5.4,5.9
+1509866,Kirindi Oya,Wellawaya,0.97,0.0,2026-09-19 23:04:44.505,4.4,5.4,5.9
