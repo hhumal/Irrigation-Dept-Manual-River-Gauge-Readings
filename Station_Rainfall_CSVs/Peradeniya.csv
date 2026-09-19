@@ -5104,3 +5104,7 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1509774,Mahaweli Ganga,Peradeniya,2.03,0.0,2026-09-19 21:01:11.870,5.0,7.0,9.0
 1509824,Mahaweli Ganga,Peradeniya,2.05,0.0,2026-09-19 22:03:02.668,5.0,7.0,9.0
 1509862,Mahaweli Ganga,Peradeniya,2.12,0.0,2026-09-19 23:03:16.585,5.0,7.0,9.0
+1509901,Mahaweli Ganga,Peradeniya,2.3,0.2,2026-09-20 00:04:18.091,5.0,7.0,9.0
+1509923,Mahaweli Ganga,Peradeniya,2.51,1.2,2026-09-20 01:01:37.862,5.0,7.0,9.0
+1510019,Mahaweli Ganga,Peradeniya,2.42,0.0,2026-09-20 03:06:50.177,5.0,7.0,9.0
+1510021,Mahaweli Ganga,Peradeniya,2.24,1.0,2026-09-20 03:06:51.406,5.0,7.0,9.0
