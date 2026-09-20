@@ -5115,3 +5115,6 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1510752,Gin Ganga,Thawalama,5.48,0.0,2026-09-20 22:03:35.464,4.0,6.0,7.5
 1510782,Gin Ganga,Thawalama,5.45,0.0,2026-09-20 23:02:33.306,4.0,6.0,7.5
 1510820,Gin Ganga,Thawalama,5.4,0.0,2026-09-21 00:03:19.964,4.0,6.0,7.5
+1510864,Gin Ganga,Thawalama,5.37,0.0,2026-09-21 01:04:12.708,4.0,6.0,7.5
+1510896,Gin Ganga,Thawalama,5.33,0.0,2026-09-21 02:04:03.865,4.0,6.0,7.5
+1510923,Gin Ganga,Thawalama,5.2,0.0,2026-09-21 03:02:19.714,4.0,6.0,7.5
