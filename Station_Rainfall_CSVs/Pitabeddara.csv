@@ -5218,7 +5218,7 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1515783,Nilwala Ganga,Pitabeddara,2.2,0.0,2026-09-26 08:03:43.865,4.0,5.0,6.5
 1515822,Nilwala Ganga,Pitabeddara,2.17,0.0,2026-09-26 09:04:08.288,4.0,5.0,6.5
 1515859,Nilwala Ganga,Pitabeddara,2.13,0.0,2026-09-26 10:03:44.791,4.0,5.0,6.5
-1515905,Nilwala Ganga,Pitabeddara,1.09,4.6,2026-09-26 11:05:11.956,4.0,5.0,6.5
+1515905,Nilwala Ganga,Pitabeddara,2.09,4.6,2026-09-26 11:05:11.956,4.0,5.0,6.5
 1515938,Nilwala Ganga,Pitabeddara,1.96,0.0,2026-09-26 12:03:31.916,4.0,5.0,6.5
 1515983,Nilwala Ganga,Pitabeddara,1.79,0.0,2026-09-26 13:03:47.653,4.0,5.0,6.5
 1516014,Nilwala Ganga,Pitabeddara,1.52,0.0,2026-09-26 14:03:18.667,4.0,5.0,6.5
@@ -5257,3 +5257,9 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1517356,Nilwala Ganga,Pitabeddara,1.19,0.0,2026-09-28 01:08:43.945,4.0,5.0,6.5
 1517386,Nilwala Ganga,Pitabeddara,1.18,0.0,2026-09-28 02:05:13.291,4.0,5.0,6.5
 1517407,Nilwala Ganga,Pitabeddara,1.18,0.0,2026-09-28 03:02:15.857,4.0,5.0,6.5
+1517536,Nilwala Ganga,Pitabeddara,1.17,0.0,2026-09-28 06:05:47.892,4.0,5.0,6.5
+1517537,Nilwala Ganga,Pitabeddara,1.17,0.0,2026-09-28 06:05:49.235,4.0,5.0,6.5
+1517548,Nilwala Ganga,Pitabeddara,1.15,0.0,2026-09-28 07:01:14.662,4.0,5.0,6.5
+1517596,Nilwala Ganga,Pitabeddara,1.15,0.0,2026-09-28 08:02:33.826,4.0,5.0,6.5
+1517651,Nilwala Ganga,Pitabeddara,1.15,0.0,2026-09-28 09:06:36.589,4.0,5.0,6.5
+1517666,Nilwala Ganga,Pitabeddara,1.13,0.0,2026-09-28 10:00:50.301,4.0,5.0,6.5
