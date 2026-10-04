@@ -5093,7 +5093,7 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1522080,Maduru Oya,Padiyathalawa,0.08,0.0,2026-10-03 05:01:11.824,4.0,4.5,6.0
 1522139,Maduru Oya,Padiyathalawa,0.08,0.0,2026-10-03 06:04:22.931,4.0,4.5,6.0
 1522174,Maduru Oya,Padiyathalawa,0.08,0.0,2026-10-03 07:03:43.553,4.0,4.5,6.0
-1522209,Maduru Oya,Padiyathalawa,8.0,0.0,2026-10-03 08:02:27.790,4.0,4.5,6.0
+1522209,Maduru Oya,Padiyathalawa,0.08,0.0,2026-10-03 08:02:27.790,4.0,4.5,6.0
 1522269,Maduru Oya,Padiyathalawa,0.08,0.0,2026-10-03 09:07:36.264,4.0,4.5,6.0
 1522282,Maduru Oya,Padiyathalawa,0.08,0.0,2026-10-03 10:01:15.430,4.0,4.5,6.0
 1522338,Maduru Oya,Padiyathalawa,0.07,0.0,2026-10-03 11:04:17.579,4.0,4.5,6.0
@@ -5128,3 +5128,8 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1523530,Maduru Oya,Padiyathalawa,0.06,0.0,2026-10-04 17:04:42.731,4.0,4.5,6.0
 1523572,Maduru Oya,Padiyathalawa,0.06,0.0,2026-10-04 18:04:44.229,4.0,4.5,6.0
 1523592,Maduru Oya,Padiyathalawa,0.06,0.0,2026-10-04 19:01:51.257,4.0,4.5,6.0
+1523648,Maduru Oya,Padiyathalawa,0.06,0.0,2026-10-04 20:06:30.201,4.0,4.5,6.0
+1523682,Maduru Oya,Padiyathalawa,0.08,0.0,2026-10-04 21:04:39.062,4.0,4.5,6.0
+1523715,Maduru Oya,Padiyathalawa,0.1,0.0,2026-10-04 22:04:08.696,4.0,4.5,6.0
+1523739,Maduru Oya,Padiyathalawa,0.1,0.0,2026-10-04 23:01:10.698,4.0,4.5,6.0
+1523773,Maduru Oya,Padiyathalawa,0.1,0.0,2026-10-05 00:01:09.487,4.0,4.5,6.0
