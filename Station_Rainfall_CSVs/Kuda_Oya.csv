@@ -5608,6 +5608,7 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1530535,Kirindi Oya,Kuda Oya,1.36,0.0,2026-10-12 08:04:32.273,6.9,8.4,8.8
 1530558,Kirindi Oya,Kuda Oya,1.45,0.0,2026-10-12 09:02:17.802,6.9,8.4,8.8
 1530612,Kirindi Oya,Kuda Oya,1.44,0.0,2026-10-12 10:03:21.438,6.9,8.4,8.8
+1530654,Kirindi Oya,Kuda Oya,1.42,0.0,2026-10-12 11:04:47.509,6.9,8.4,8.8
 1530692,Kirindi Oya,Kuda Oya,1.41,0.0,2026-10-12 12:02:40.456,6.9,8.4,8.8
 1530744,Kirindi Oya,Kuda Oya,1.4,0.0,2026-10-12 13:06:36.218,6.9,8.4,8.8
 1530765,Kirindi Oya,Kuda Oya,1.38,0.0,2026-10-12 14:02:22.346,6.9,8.4,8.8
@@ -5645,3 +5646,5 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1532002,Kirindi Oya,Kuda Oya,1.17,0.0,2026-10-13 22:05:40.468,6.9,8.4,8.8
 1532041,Kirindi Oya,Kuda Oya,1.18,0.0,2026-10-13 23:07:16.132,6.9,8.4,8.8
 1532066,Kirindi Oya,Kuda Oya,1.19,0.0,2026-10-14 00:04:42.544,6.9,8.4,8.8
+1532113,Kirindi Oya,Kuda Oya,1.18,0.0,2026-10-14 01:06:58.414,6.9,8.4,8.8
+1532246,Kirindi Oya,Kuda Oya,1.2,0.0,2026-10-14 05:04:04.170,6.9,8.4,8.8

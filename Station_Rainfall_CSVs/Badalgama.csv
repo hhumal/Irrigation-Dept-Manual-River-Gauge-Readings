@@ -5794,6 +5794,7 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1530541,Maha Oya,Badalgama,3.76,0.0,2026-10-12 08:06:45.112,5.0,6.2,9.6
 1530584,Maha Oya,Badalgama,3.74,0.0,2026-10-12 09:05:29.164,5.0,6.2,9.6
 1530619,Maha Oya,Badalgama,3.67,0.0,2026-10-12 10:05:44.369,5.0,6.2,9.6
+1530660,Maha Oya,Badalgama,3.59,0.0,2026-10-12 11:06:27.218,5.0,6.2,9.6
 1530710,Maha Oya,Badalgama,3.53,0.0,2026-10-12 12:06:12.288,5.0,6.2,9.6
 1530745,Maha Oya,Badalgama,3.47,0.0,2026-10-12 13:06:53.569,5.0,6.2,9.6
 1530771,Maha Oya,Badalgama,3.42,0.0,2026-10-12 14:02:45.939,5.0,6.2,9.6
@@ -5831,3 +5832,8 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1532000,Maha Oya,Badalgama,2.74,0.0,2026-10-13 22:05:22.698,5.0,6.2,9.6
 1532027,Maha Oya,Badalgama,2.74,0.0,2026-10-13 23:03:26.889,5.0,6.2,9.6
 1532071,Maha Oya,Badalgama,2.74,0.0,2026-10-14 00:05:55.705,5.0,6.2,9.6
+1532101,Maha Oya,Badalgama,2.77,0.0,2026-10-14 01:03:48.680,5.0,6.2,9.6
+1532140,Maha Oya,Badalgama,2.8,0.0,2026-10-14 02:05:06.343,5.0,6.2,9.6
+1532184,Maha Oya,Badalgama,2.82,0.0,2026-10-14 03:06:16.478,5.0,6.2,9.6
+1532210,Maha Oya,Badalgama,2.85,0.0,2026-10-14 04:04:51.587,5.0,6.2,9.6
+1532251,Maha Oya,Badalgama,2.87,0.0,2026-10-14 05:05:06.949,5.0,6.2,9.6

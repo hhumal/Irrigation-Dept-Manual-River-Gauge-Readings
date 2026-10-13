@@ -5683,6 +5683,7 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1530546,Kelani Ganga,Glencourse,11.4,0.0,2026-10-12 08:08:23.912,15.0,15.5,19.0
 1530575,Kelani Ganga,Glencourse,11.3,0.0,2026-10-12 09:03:47.087,15.0,15.5,19.0
 1530609,Kelani Ganga,Glencourse,11.22,0.0,2026-10-12 10:03:06.108,15.0,15.5,19.0
+1530659,Kelani Ganga,Glencourse,11.17,0.0,2026-10-12 11:05:53.043,15.0,15.5,19.0
 1530712,Kelani Ganga,Glencourse,11.14,0.0,2026-10-12 12:07:28.533,15.0,15.5,19.0
 1530748,Kelani Ganga,Glencourse,11.11,0.0,2026-10-12 13:08:35.098,15.0,15.5,19.0
 1530782,Kelani Ganga,Glencourse,11.08,2.2,2026-10-12 14:05:32.893,15.0,15.5,19.0
@@ -5720,3 +5721,8 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1531986,Kelani Ganga,Glencourse,10.97,0.0,2026-10-13 22:02:09.518,15.0,15.5,19.0
 1532028,Kelani Ganga,Glencourse,11.11,0.0,2026-10-13 23:03:37.172,15.0,15.5,19.0
 1532048,Kelani Ganga,Glencourse,11.13,0.0,2026-10-14 00:00:57.680,15.0,15.5,19.0
+1532104,Kelani Ganga,Glencourse,11.19,0.0,2026-10-14 01:04:26.914,15.0,15.5,19.0
+1532155,Kelani Ganga,Glencourse,11.2,0.0,2026-10-14 02:41:09.976,15.0,15.5,19.0
+1532174,Kelani Ganga,Glencourse,11.13,0.0,2026-10-14 03:03:19.131,15.0,15.5,19.0
+1532219,Kelani Ganga,Glencourse,11.06,0.0,2026-10-14 04:10:37.566,15.0,15.5,19.0
+1532256,Kelani Ganga,Glencourse,11.05,0.0,2026-10-14 05:08:57.611,15.0,15.5,19.0
