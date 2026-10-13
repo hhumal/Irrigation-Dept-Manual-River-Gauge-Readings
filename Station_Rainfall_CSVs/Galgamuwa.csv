@@ -3010,6 +3010,7 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1530519,Mee Oya,Galgamuwa,0.03,0.0,2026-10-12 08:02:38.568,4.84,5.94,8.0
 1530579,Mee Oya,Galgamuwa,0.04,0.0,2026-10-12 09:04:29.773,4.84,5.94,8.0
 1530604,Mee Oya,Galgamuwa,0.04,0.0,2026-10-12 10:02:12.435,4.84,5.94,8.0
+1530645,Mee Oya,Galgamuwa,0.04,0.0,2026-10-12 11:02:29.408,4.84,5.94,8.0
 1530706,Mee Oya,Galgamuwa,0.04,0.0,2026-10-12 12:04:46.116,4.84,5.94,8.0
 1530733,Mee Oya,Galgamuwa,0.05,0.0,2026-10-12 13:02:37.836,4.84,5.94,8.0
 1530793,Mee Oya,Galgamuwa,0.05,0.0,2026-10-12 14:12:04.617,4.84,5.94,8.0
@@ -3028,3 +3029,5 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1531715,Mee Oya,Galgamuwa,0.02,0.0,2026-10-13 15:02:31.258,4.84,5.94,8.0
 1531757,Mee Oya,Galgamuwa,0.04,23.7,2026-10-13 16:02:54.953,4.84,5.94,8.0
 1531799,Mee Oya,Galgamuwa,0.07,1.3,2026-10-13 17:03:02.581,4.84,5.94,8.0
+1531849,Mee Oya,Galgamuwa,0.09,0.0,2026-10-13 18:04:30.707,4.84,5.94,8.0
+1531853,Mee Oya,Galgamuwa,0.09,0.6,2026-10-13 18:05:16.747,4.84,5.94,8.0

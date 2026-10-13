@@ -5637,6 +5637,7 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1530526,Heda Oya,Siyambalanduwa,0.35,0.0,2026-10-12 08:03:24.053,4.5,6.0,7.0
 1530559,Heda Oya,Siyambalanduwa,0.37,0.0,2026-10-12 09:02:21.093,4.5,6.0,7.0
 1530617,Heda Oya,Siyambalanduwa,0.38,0.0,2026-10-12 10:04:53.517,4.5,6.0,7.0
+1530649,Heda Oya,Siyambalanduwa,0.39,0.0,2026-10-12 11:03:25.216,4.5,6.0,7.0
 1530705,Heda Oya,Siyambalanduwa,0.39,0.0,2026-10-12 12:04:17.680,4.5,6.0,7.0
 1530770,Heda Oya,Siyambalanduwa,0.39,0.0,2026-10-12 14:02:42.127,4.5,6.0,7.0
 1530796,Heda Oya,Siyambalanduwa,0.39,0.0,2026-10-12 15:00:43.174,4.5,6.0,7.0
@@ -5666,3 +5667,10 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1531713,Heda Oya,Siyambalanduwa,0.37,0.0,2026-10-13 15:02:11.293,4.5,6.0,7.0
 1531760,Heda Oya,Siyambalanduwa,0.37,5.5,2026-10-13 16:03:55.215,4.5,6.0,7.0
 1531809,Heda Oya,Siyambalanduwa,0.38,2.5,2026-10-13 17:05:27.135,4.5,6.0,7.0
+1531846,Heda Oya,Siyambalanduwa,0.39,0.2,2026-10-13 18:03:43.454,4.5,6.0,7.0
+1531862,Heda Oya,Siyambalanduwa,0.43,0.0,2026-10-13 19:01:02.614,4.5,6.0,7.0
+1531906,Heda Oya,Siyambalanduwa,0.45,0.0,2026-10-13 20:02:09.722,4.5,6.0,7.0
+1531936,Heda Oya,Siyambalanduwa,0.43,0.0,2026-10-13 21:00:09.714,4.5,6.0,7.0
+1531992,Heda Oya,Siyambalanduwa,0.43,0.0,2026-10-13 22:03:01.365,4.5,6.0,7.0
+1532018,Heda Oya,Siyambalanduwa,0.43,0.0,2026-10-13 23:01:26.846,4.5,6.0,7.0
+1532047,Heda Oya,Siyambalanduwa,0.43,0.0,2026-10-14 00:00:19.278,4.5,6.0,7.0
