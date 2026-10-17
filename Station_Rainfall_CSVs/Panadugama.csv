@@ -5815,7 +5815,7 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1534111,Nilwala Ganga,Panadugama,6.69,0.0,2026-10-16 05:03:39.276,5.0,6.0,7.5
 1534173,Nilwala Ganga,Panadugama,6.69,0.0,2026-10-16 06:11:52.347,5.0,6.0,7.5
 1534205,Nilwala Ganga,Panadugama,6.69,0.0,2026-10-16 07:05:56.759,5.0,6.0,7.5
-1534245,Nilwala Ganga,Panadugama,6.96,0.0,2026-10-16 08:04:35.962,5.0,6.0,7.5
+1534245,Nilwala Ganga,Panadugama,6.69,0.0,2026-10-16 08:04:35.962,5.0,6.0,7.5
 1534258,Nilwala Ganga,Panadugama,6.69,0.0,2026-10-16 08:31:57.716,5.0,6.0,7.5
 1534272,Nilwala Ganga,Panadugama,6.67,0.0,2026-10-16 09:02:51.655,5.0,6.0,7.5
 1534329,Nilwala Ganga,Panadugama,6.65,0.0,2026-10-16 10:05:57.589,5.0,6.0,7.5
@@ -5855,3 +5855,6 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1535567,Nilwala Ganga,Panadugama,6.01,0.0,2026-10-17 18:07:32.696,5.0,6.0,7.5
 1535594,Nilwala Ganga,Panadugama,6.0,0.0,2026-10-17 19:08:50.174,5.0,6.0,7.5
 1535638,Nilwala Ganga,Panadugama,6.0,0.0,2026-10-17 20:07:54.871,5.0,6.0,7.5
+1535677,Nilwala Ganga,Panadugama,6.1,0.0,2026-10-17 21:07:22.543,5.0,6.0,7.5
+1535723,Nilwala Ganga,Panadugama,6.16,0.0,2026-10-17 22:07:06.746,5.0,6.0,7.5
+1535744,Nilwala Ganga,Panadugama,6.18,0.0,2026-10-17 23:03:04.159,5.0,6.0,7.5
