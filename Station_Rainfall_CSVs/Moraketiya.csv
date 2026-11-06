@@ -6222,7 +6222,7 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1552339,Walawe Ganga,Moraketiya,2.1,0.0,2026-11-04 21:01:18.183,3.0,5.0,7.0
 1552379,Walawe Ganga,Moraketiya,2.08,0.0,2026-11-04 22:01:41.356,3.0,5.0,7.0
 1552411,Walawe Ganga,Moraketiya,2.06,0.0,2026-11-04 23:00:22.224,3.0,5.0,7.0
-1552448,Walawe Ganga,Moraketiya,4.04,0.0,2026-11-05 00:00:26.796,3.0,5.0,7.0
+1552448,Walawe Ganga,Moraketiya,2.06,0.0,2026-11-05 00:00:26.796,3.0,5.0,7.0
 1552504,Walawe Ganga,Moraketiya,2.06,0.0,2026-11-05 01:04:17.555,3.0,5.0,7.0
 1552545,Walawe Ganga,Moraketiya,2.06,0.0,2026-11-05 02:08:57.697,3.0,5.0,7.0
 1552598,Walawe Ganga,Moraketiya,2.1,0.0,2026-11-05 04:03:20.105,3.0,5.0,7.0
@@ -6250,3 +6250,15 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1553512,Walawe Ganga,Moraketiya,1.82,0.0,2026-11-06 04:00:23.655,3.0,5.0,7.0
 1553551,Walawe Ganga,Moraketiya,1.84,0.0,2026-11-06 05:00:44.586,3.0,5.0,7.0
 1553603,Walawe Ganga,Moraketiya,1.8,0.0,2026-11-06 06:03:11.747,3.0,5.0,7.0
+1553658,Walawe Ganga,Moraketiya,1.8,0.0,2026-11-06 07:07:45.201,3.0,5.0,7.0
+1553699,Walawe Ganga,Moraketiya,1.74,1.0,2026-11-06 08:08:17.677,3.0,5.0,7.0
+1553729,Walawe Ganga,Moraketiya,1.74,0.5,2026-11-06 09:05:40.634,3.0,5.0,7.0
+1553775,Walawe Ganga,Moraketiya,1.74,0.0,2026-11-06 10:06:17.314,3.0,5.0,7.0
+1553796,Walawe Ganga,Moraketiya,1.72,0.0,2026-11-06 11:01:46.492,3.0,5.0,7.0
+1553854,Walawe Ganga,Moraketiya,1.7,0.0,2026-11-06 12:05:19.934,3.0,5.0,7.0
+1553871,Walawe Ganga,Moraketiya,1.7,0.0,2026-11-06 13:01:13.433,3.0,5.0,7.0
+1553913,Walawe Ganga,Moraketiya,1.75,5.0,2026-11-06 14:00:50.215,3.0,5.0,7.0
+1553978,Walawe Ganga,Moraketiya,1.72,1.0,2026-11-06 15:04:48.107,3.0,5.0,7.0
+1554010,Walawe Ganga,Moraketiya,1.72,0.0,2026-11-06 16:03:24.685,3.0,5.0,7.0
+1554033,Walawe Ganga,Moraketiya,1.72,0.0,2026-11-06 16:16:04.388,3.0,5.0,7.0
+1554069,Walawe Ganga,Moraketiya,1.72,1.6,2026-11-06 17:07:45.932,3.0,5.0,7.0
