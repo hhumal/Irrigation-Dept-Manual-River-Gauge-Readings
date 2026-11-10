@@ -6356,6 +6356,7 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1556523,Kirindi Oya,Wellawaya,1.35,0.0,2026-11-09 09:51:11.819,4.4,5.4,5.9
 1556532,Kirindi Oya,Wellawaya,1.33,0.0,2026-11-09 10:01:59.317,4.4,5.4,5.9
 1556570,Kirindi Oya,Wellawaya,1.32,0.0,2026-11-09 11:01:35.074,4.4,5.4,5.9
+1556615,Kirindi Oya,Wellawaya,1.31,0.0,2026-11-09 12:01:56.467,4.4,5.4,5.9
 1556669,Kirindi Oya,Wellawaya,1.3,0.0,2026-11-09 13:03:26.702,4.4,5.4,5.9
 1556702,Kirindi Oya,Wellawaya,1.29,0.0,2026-11-09 14:03:16.297,4.4,5.4,5.9
 1556748,Kirindi Oya,Wellawaya,1.32,6.9,2026-11-09 15:03:01.775,4.4,5.4,5.9
@@ -6385,3 +6386,13 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1557635,Kirindi Oya,Wellawaya,1.68,0.5,2026-11-10 15:03:13.328,4.4,5.4,5.9
 1557666,Kirindi Oya,Wellawaya,1.62,0.0,2026-11-10 16:02:53.632,4.4,5.4,5.9
 1557706,Kirindi Oya,Wellawaya,1.62,0.0,2026-11-10 17:02:47.849,4.4,5.4,5.9
+1557741,Kirindi Oya,Wellawaya,1.62,0.0,2026-11-10 18:00:16.374,4.4,5.4,5.9
+1557782,Kirindi Oya,Wellawaya,1.62,0.0,2026-11-10 19:00:15.638,4.4,5.4,5.9
+1557820,Kirindi Oya,Wellawaya,1.62,0.0,2026-11-10 20:00:14.176,4.4,5.4,5.9
+1557867,Kirindi Oya,Wellawaya,1.61,0.0,2026-11-10 21:03:06.483,4.4,5.4,5.9
+1557894,Kirindi Oya,Wellawaya,1.61,0.0,2026-11-10 22:00:19.979,4.4,5.4,5.9
+1557935,Kirindi Oya,Wellawaya,1.61,0.0,2026-11-10 23:02:03.669,4.4,5.4,5.9
+1557968,Kirindi Oya,Wellawaya,1.61,0.0,2026-11-11 00:01:32.009,4.4,5.4,5.9
+1558026,Kirindi Oya,Wellawaya,1.61,0.0,2026-11-11 02:01:10.838,4.4,5.4,5.9
+1558029,Kirindi Oya,Wellawaya,1.61,0.0,2026-11-11 02:01:37.180,4.4,5.4,5.9
+1558081,Kirindi Oya,Wellawaya,1.58,0.0,2026-11-11 03:02:50.948,4.4,5.4,5.9
