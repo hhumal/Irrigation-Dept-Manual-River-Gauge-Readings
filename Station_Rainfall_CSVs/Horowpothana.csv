@@ -6197,6 +6197,7 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1562954,Yan Oya,Horowpothana,2.04,0.0,2026-11-16 09:08:08.577,6.0,7.5,10.5
 1562995,Yan Oya,Horowpothana,2.04,0.0,2026-11-16 10:08:51.663,6.0,7.5,10.5
 1563021,Yan Oya,Horowpothana,2.03,0.0,2026-11-16 11:03:11.663,6.0,7.5,10.5
+1563051,Yan Oya,Horowpothana,2.03,0.0,2026-11-16 12:01:51.917,6.0,7.5,10.5
 1563103,Yan Oya,Horowpothana,2.03,0.0,2026-11-16 13:03:11.060,6.0,7.5,10.5
 1563124,Yan Oya,Horowpothana,2.03,0.0,2026-11-16 14:01:04.392,6.0,7.5,10.5
 1563165,Yan Oya,Horowpothana,2.02,0.0,2026-11-16 15:00:38.930,6.0,7.5,10.5
@@ -6225,3 +6226,13 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1564093,Yan Oya,Horowpothana,1.89,0.0,2026-11-17 15:03:28.777,6.0,7.5,10.5
 1564133,Yan Oya,Horowpothana,1.88,0.0,2026-11-17 16:03:20.470,6.0,7.5,10.5
 1564229,Yan Oya,Horowpothana,1.88,0.0,2026-11-17 18:05:32.703,6.0,7.5,10.5
+1564239,Yan Oya,Horowpothana,1.88,0.0,2026-11-17 19:00:45.501,6.0,7.5,10.5
+1564306,Yan Oya,Horowpothana,1.88,0.0,2026-11-17 20:11:48.622,6.0,7.5,10.5
+1564326,Yan Oya,Horowpothana,1.88,0.0,2026-11-17 21:02:43.486,6.0,7.5,10.5
+1564353,Yan Oya,Horowpothana,1.88,0.0,2026-11-17 22:00:58.015,6.0,7.5,10.5
+1564386,Yan Oya,Horowpothana,1.88,0.0,2026-11-17 23:01:00.154,6.0,7.5,10.5
+1564436,Yan Oya,Horowpothana,1.88,0.0,2026-11-18 00:04:21.979,6.0,7.5,10.5
+1564493,Yan Oya,Horowpothana,1.88,0.0,2026-11-18 02:02:01.330,6.0,7.5,10.5
+1564520,Yan Oya,Horowpothana,1.87,0.0,2026-11-18 03:01:48.112,6.0,7.5,10.5
+1564554,Yan Oya,Horowpothana,1.88,0.0,2026-11-18 03:36:07.201,6.0,7.5,10.5
+1564563,Yan Oya,Horowpothana,1.88,0.0,2026-11-18 04:02:09.860,6.0,7.5,10.5

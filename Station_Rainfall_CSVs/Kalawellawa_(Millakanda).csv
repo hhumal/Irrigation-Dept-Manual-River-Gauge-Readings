@@ -5924,6 +5924,7 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1562947,Kalu Ganga,Kalawellawa (Millakanda),2.82,0.0,2026-11-16 09:05:09.183,5.0,6.5,8.0
 1562987,Kalu Ganga,Kalawellawa (Millakanda),2.86,0.0,2026-11-16 10:05:22.556,5.0,6.5,8.0
 1563017,Kalu Ganga,Kalawellawa (Millakanda),2.9,0.0,2026-11-16 11:02:29.520,5.0,6.5,8.0
+1563063,Kalu Ganga,Kalawellawa (Millakanda),2.93,0.0,2026-11-16 12:03:14.657,5.0,6.5,8.0
 1563099,Kalu Ganga,Kalawellawa (Millakanda),2.91,0.0,2026-11-16 13:02:40.746,5.0,6.5,8.0
 1563140,Kalu Ganga,Kalawellawa (Millakanda),2.87,0.0,2026-11-16 14:02:52.026,5.0,6.5,8.0
 1563179,Kalu Ganga,Kalawellawa (Millakanda),2.85,0.0,2026-11-16 15:02:28.323,5.0,6.5,8.0
@@ -5953,3 +5954,13 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1564124,Kalu Ganga,Kalawellawa (Millakanda),2.47,0.0,2026-11-17 16:02:29.094,5.0,6.5,8.0
 1564162,Kalu Ganga,Kalawellawa (Millakanda),2.47,0.0,2026-11-17 17:02:10.770,5.0,6.5,8.0
 1564206,Kalu Ganga,Kalawellawa (Millakanda),2.48,0.0,2026-11-17 18:02:15.549,5.0,6.5,8.0
+1564264,Kalu Ganga,Kalawellawa (Millakanda),2.48,0.0,2026-11-17 19:07:48.195,5.0,6.5,8.0
+1564288,Kalu Ganga,Kalawellawa (Millakanda),2.48,0.0,2026-11-17 20:03:27.130,5.0,6.5,8.0
+1564343,Kalu Ganga,Kalawellawa (Millakanda),2.49,0.0,2026-11-17 21:10:26.974,5.0,6.5,8.0
+1564356,Kalu Ganga,Kalawellawa (Millakanda),2.49,0.0,2026-11-17 22:01:52.111,5.0,6.5,8.0
+1564395,Kalu Ganga,Kalawellawa (Millakanda),2.49,0.0,2026-11-17 23:02:47.534,5.0,6.5,8.0
+1564429,Kalu Ganga,Kalawellawa (Millakanda),2.49,0.0,2026-11-18 00:02:52.026,5.0,6.5,8.0
+1564464,Kalu Ganga,Kalawellawa (Millakanda),2.51,0.0,2026-11-18 01:02:10.366,5.0,6.5,8.0
+1564533,Kalu Ganga,Kalawellawa (Millakanda),2.52,0.0,2026-11-18 03:03:13.369,5.0,6.5,8.0
+1564537,Kalu Ganga,Kalawellawa (Millakanda),2.54,0.0,2026-11-18 03:04:01.021,5.0,6.5,8.0
+1564571,Kalu Ganga,Kalawellawa (Millakanda),2.56,0.0,2026-11-18 04:03:24.684,5.0,6.5,8.0
