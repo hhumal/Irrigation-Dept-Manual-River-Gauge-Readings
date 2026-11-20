@@ -6542,6 +6542,7 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1565507,Mahaweli Ganga,Nawalapitiya,1.16,0.0,2026-11-19 05:00:56.554,3.5,5.0,6.0
 1565549,Mahaweli Ganga,Nawalapitiya,1.16,0.0,2026-11-19 06:01:39.668,3.5,5.0,6.0
 1565583,Mahaweli Ganga,Nawalapitiya,1.16,0.0,2026-11-19 07:00:30.779,3.5,5.0,6.0
+1565624,Mahaweli Ganga,Nawalapitiya,1.16,0.0,2026-11-19 08:00:36.176,3.5,5.0,6.0
 1565668,Mahaweli Ganga,Nawalapitiya,1.15,0.0,2026-11-19 09:01:23.424,3.5,5.0,6.0
 1565718,Mahaweli Ganga,Nawalapitiya,1.14,0.0,2026-11-19 10:03:09.237,3.5,5.0,6.0
 1565754,Mahaweli Ganga,Nawalapitiya,1.14,0.0,2026-11-19 11:02:37.020,3.5,5.0,6.0
@@ -6570,3 +6571,13 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1566622,Mahaweli Ganga,Nawalapitiya,1.12,0.0,2026-11-20 10:03:38.697,3.5,5.0,6.0
 1566668,Mahaweli Ganga,Nawalapitiya,1.14,0.0,2026-11-20 11:05:18.963,3.5,5.0,6.0
 1566702,Mahaweli Ganga,Nawalapitiya,1.14,0.0,2026-11-20 12:03:27.977,3.5,5.0,6.0
+1566750,Mahaweli Ganga,Nawalapitiya,1.13,0.0,2026-11-20 13:08:03.547,3.5,5.0,6.0
+1566766,Mahaweli Ganga,Nawalapitiya,1.13,0.0,2026-11-20 14:01:37.733,3.5,5.0,6.0
+1566814,Mahaweli Ganga,Nawalapitiya,1.12,0.0,2026-11-20 15:02:43.667,3.5,5.0,6.0
+1566865,Mahaweli Ganga,Nawalapitiya,1.1,0.0,2026-11-20 16:03:46.810,3.5,5.0,6.0
+1566899,Mahaweli Ganga,Nawalapitiya,1.1,0.0,2026-11-20 17:03:03.309,3.5,5.0,6.0
+1566943,Mahaweli Ganga,Nawalapitiya,1.1,0.0,2026-11-20 18:03:06.627,3.5,5.0,6.0
+1567002,Mahaweli Ganga,Nawalapitiya,1.1,0.0,2026-11-20 19:11:04.192,3.5,5.0,6.0
+1567034,Mahaweli Ganga,Nawalapitiya,1.12,2.1,2026-11-20 20:06:09.146,3.5,5.0,6.0
+1567066,Mahaweli Ganga,Nawalapitiya,1.76,1.9,2026-11-20 21:04:53.494,3.5,5.0,6.0
+1567106,Mahaweli Ganga,Nawalapitiya,2.6,5.5,2026-11-20 22:09:00.157,3.5,5.0,6.0

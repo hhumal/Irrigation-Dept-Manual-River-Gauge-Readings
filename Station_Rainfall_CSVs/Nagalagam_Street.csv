@@ -6506,6 +6506,7 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1565535,Kelani Ganga,Nagalagam Street,1.8,0.0,2026-11-19 05:07:52.023,4.0,5.0,7.0
 1565551,Kelani Ganga,Nagalagam Street,1.8,0.0,2026-11-19 06:01:48.304,4.0,5.0,7.0
 1565608,Kelani Ganga,Nagalagam Street,1.8,0.0,2026-11-19 07:05:24.754,4.0,5.0,7.0
+1565621,Kelani Ganga,Nagalagam Street,1.8,0.0,2026-11-19 08:00:12.152,4.0,5.0,7.0
 1565662,Kelani Ganga,Nagalagam Street,1.85,0.0,2026-11-19 09:00:18.118,4.0,5.0,7.0
 1565708,Kelani Ganga,Nagalagam Street,1.85,0.0,2026-11-19 10:01:11.250,4.0,5.0,7.0
 1565751,Kelani Ganga,Nagalagam Street,1.8,0.0,2026-11-19 11:01:54.264,4.0,5.0,7.0
@@ -6534,3 +6535,13 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1566632,Kelani Ganga,Nagalagam Street,1.9,0.0,2026-11-20 10:07:26.887,4.0,5.0,7.0
 1566663,Kelani Ganga,Nagalagam Street,1.9,0.0,2026-11-20 11:04:42.088,4.0,5.0,7.0
 1566694,Kelani Ganga,Nagalagam Street,1.9,0.0,2026-11-20 12:02:13.788,4.0,5.0,7.0
+1566727,Kelani Ganga,Nagalagam Street,1.8,0.0,2026-11-20 13:01:16.801,4.0,5.0,7.0
+1566767,Kelani Ganga,Nagalagam Street,1.6,0.0,2026-11-20 14:02:12.900,4.0,5.0,7.0
+1566829,Kelani Ganga,Nagalagam Street,1.5,0.0,2026-11-20 15:04:46.776,4.0,5.0,7.0
+1566874,Kelani Ganga,Nagalagam Street,1.4,0.0,2026-11-20 16:08:39.559,4.0,5.0,7.0
+1566893,Kelani Ganga,Nagalagam Street,1.4,0.0,2026-11-20 17:01:36.089,4.0,5.0,7.0
+1566951,Kelani Ganga,Nagalagam Street,1.3,0.0,2026-11-20 18:04:51.485,4.0,5.0,7.0
+1566993,Kelani Ganga,Nagalagam Street,1.5,0.0,2026-11-20 19:06:05.776,4.0,5.0,7.0
+1567032,Kelani Ganga,Nagalagam Street,1.7,0.0,2026-11-20 20:05:54.429,4.0,5.0,7.0
+1567061,Kelani Ganga,Nagalagam Street,1.9,0.0,2026-11-20 21:03:40.572,4.0,5.0,7.0
+1567092,Kelani Ganga,Nagalagam Street,2.1,0.0,2026-11-20 22:02:54.428,4.0,5.0,7.0
