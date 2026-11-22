@@ -6586,6 +6586,7 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1567316,Kelani Ganga,Norwood,1.08,0.0,2026-11-21 04:07:33.686,1.5,3.0,4.5
 1567341,Kelani Ganga,Norwood,1.05,0.0,2026-11-21 05:02:48.398,1.5,3.0,4.5
 1567395,Kelani Ganga,Norwood,1.01,0.0,2026-11-21 06:08:17.802,1.5,3.0,4.5
+1567433,Kelani Ganga,Norwood,0.95,0.0,2026-11-21 07:08:51.600,1.5,3.0,4.5
 1567464,Kelani Ganga,Norwood,0.92,0.0,2026-11-21 08:05:14.105,1.5,3.0,4.5
 1567516,Kelani Ganga,Norwood,0.89,0.0,2026-11-21 09:32:10.938,1.5,3.0,4.5
 1567550,Kelani Ganga,Norwood,0.89,0.0,2026-11-21 10:08:08.906,1.5,3.0,4.5
@@ -6614,3 +6615,13 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1568393,Kelani Ganga,Norwood,0.89,0.0,2026-11-22 09:03:19.422,1.5,3.0,4.5
 1568428,Kelani Ganga,Norwood,0.88,0.0,2026-11-22 10:02:55.456,1.5,3.0,4.5
 1568479,Kelani Ganga,Norwood,0.86,0.0,2026-11-22 11:04:18.942,1.5,3.0,4.5
+1568559,Kelani Ganga,Norwood,0.86,0.0,2026-11-22 13:03:28.927,1.5,3.0,4.5
+1568597,Kelani Ganga,Norwood,0.84,0.0,2026-11-22 14:03:49.940,1.5,3.0,4.5
+1568628,Kelani Ganga,Norwood,0.85,0.0,2026-11-22 15:02:20.793,1.5,3.0,4.5
+1568679,Kelani Ganga,Norwood,0.86,0.0,2026-11-22 16:04:17.504,1.5,3.0,4.5
+1568713,Kelani Ganga,Norwood,0.85,0.0,2026-11-22 17:02:17.336,1.5,3.0,4.5
+1568768,Kelani Ganga,Norwood,0.85,0.0,2026-11-22 18:03:49.225,1.5,3.0,4.5
+1568793,Kelani Ganga,Norwood,0.84,0.0,2026-11-22 19:02:58.495,1.5,3.0,4.5
+1568814,Kelani Ganga,Norwood,0.84,0.0,2026-11-22 19:15:33.685,1.5,3.0,4.5
+1568827,Kelani Ganga,Norwood,0.84,0.0,2026-11-22 20:02:06.775,1.5,3.0,4.5
+1568869,Kelani Ganga,Norwood,0.84,0.0,2026-11-22 21:03:15.066,1.5,3.0,4.5

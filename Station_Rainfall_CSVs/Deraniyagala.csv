@@ -6594,10 +6594,11 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1567162,Kelani Ganga,Deraniyagala,0.87,0.0,2026-11-21 00:03:49.355,4.8,5.8,7.0
 1567198,Kelani Ganga,Deraniyagala,0.98,0.0,2026-11-21 01:03:22.213,4.8,5.8,7.0
 1567249,Kelani Ganga,Deraniyagala,0.91,0.0,2026-11-21 02:40:07.175,4.8,5.8,7.0
-1567268,Kelani Ganga,Deraniyagala,0.05,0.0,2026-11-21 03:03:30.802,4.8,5.8,7.0
+1567268,Kelani Ganga,Deraniyagala,0.89,0.0,2026-11-21 03:03:30.802,4.8,5.8,7.0
 1567320,Kelani Ganga,Deraniyagala,0.81,0.0,2026-11-21 04:13:54.410,4.8,5.8,7.0
 1567356,Kelani Ganga,Deraniyagala,0.81,0.0,2026-11-21 05:13:20.628,4.8,5.8,7.0
 1567383,Kelani Ganga,Deraniyagala,0.73,0.0,2026-11-21 06:04:03.747,4.8,5.8,7.0
+1567423,Kelani Ganga,Deraniyagala,0.7,0.0,2026-11-21 07:05:14.663,4.8,5.8,7.0
 1567457,Kelani Ganga,Deraniyagala,0.67,0.0,2026-11-21 08:03:48.785,4.8,5.8,7.0
 1567473,Kelani Ganga,Deraniyagala,1.3,0.0,2026-11-21 08:06:38.659,4.8,5.8,7.0
 1567490,Kelani Ganga,Deraniyagala,0.65,0.0,2026-11-21 09:02:15.587,4.8,5.8,7.0
@@ -6627,3 +6628,12 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1568389,Kelani Ganga,Deraniyagala,0.54,0.0,2026-11-22 09:02:34.657,4.8,5.8,7.0
 1568426,Kelani Ganga,Deraniyagala,0.53,0.0,2026-11-22 10:02:34.776,4.8,5.8,7.0
 1568476,Kelani Ganga,Deraniyagala,0.5,0.0,2026-11-22 11:03:36.139,4.8,5.8,7.0
+1568552,Kelani Ganga,Deraniyagala,0.48,0.0,2026-11-22 13:02:39.130,4.8,5.8,7.0
+1568595,Kelani Ganga,Deraniyagala,0.47,0.0,2026-11-22 14:03:25.431,4.8,5.8,7.0
+1568638,Kelani Ganga,Deraniyagala,0.46,0.0,2026-11-22 15:03:20.413,4.8,5.8,7.0
+1568674,Kelani Ganga,Deraniyagala,0.5,0.0,2026-11-22 16:03:15.893,4.8,5.8,7.0
+1568716,Kelani Ganga,Deraniyagala,0.57,0.0,2026-11-22 17:02:28.296,4.8,5.8,7.0
+1568765,Kelani Ganga,Deraniyagala,0.58,0.0,2026-11-22 18:03:19.334,4.8,5.8,7.0
+1568801,Kelani Ganga,Deraniyagala,0.55,0.0,2026-11-22 19:05:12.343,4.8,5.8,7.0
+1568833,Kelani Ganga,Deraniyagala,0.5,0.0,2026-11-22 20:03:52.665,4.8,5.8,7.0
+1568875,Kelani Ganga,Deraniyagala,0.47,0.0,2026-11-22 21:04:31.590,4.8,5.8,7.0
