@@ -6628,6 +6628,7 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1568389,Kelani Ganga,Deraniyagala,0.54,0.0,2026-11-22 09:02:34.657,4.8,5.8,7.0
 1568426,Kelani Ganga,Deraniyagala,0.53,0.0,2026-11-22 10:02:34.776,4.8,5.8,7.0
 1568476,Kelani Ganga,Deraniyagala,0.5,0.0,2026-11-22 11:03:36.139,4.8,5.8,7.0
+1568511,Kelani Ganga,Deraniyagala,0.49,0.0,2026-11-22 12:03:30.516,4.8,5.8,7.0
 1568552,Kelani Ganga,Deraniyagala,0.48,0.0,2026-11-22 13:02:39.130,4.8,5.8,7.0
 1568595,Kelani Ganga,Deraniyagala,0.47,0.0,2026-11-22 14:03:25.431,4.8,5.8,7.0
 1568638,Kelani Ganga,Deraniyagala,0.46,0.0,2026-11-22 15:03:20.413,4.8,5.8,7.0
@@ -6651,3 +6652,12 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1569340,Kelani Ganga,Deraniyagala,0.5,0.0,2026-11-23 10:02:58.636,4.8,5.8,7.0
 1569367,Kelani Ganga,Deraniyagala,0.45,0.0,2026-11-23 11:02:13.337,4.8,5.8,7.0
 1569423,Kelani Ganga,Deraniyagala,0.42,0.0,2026-11-23 12:05:56.223,4.8,5.8,7.0
+1569613,Kelani Ganga,Deraniyagala,0.47,0.0,2026-11-23 17:03:23.072,4.8,5.8,7.0
+1569660,Kelani Ganga,Deraniyagala,0.51,0.0,2026-11-23 18:02:53.062,4.8,5.8,7.0
+1569693,Kelani Ganga,Deraniyagala,0.54,0.0,2026-11-23 19:03:50.919,4.8,5.8,7.0
+1569744,Kelani Ganga,Deraniyagala,0.77,45.5,2026-11-23 20:08:58.900,4.8,5.8,7.0
+1569777,Kelani Ganga,Deraniyagala,1.5,2.9,2026-11-23 21:05:35.493,4.8,5.8,7.0
+1569806,Kelani Ganga,Deraniyagala,1.64,0.0,2026-11-23 22:04:57.441,4.8,5.8,7.0
+1569842,Kelani Ganga,Deraniyagala,1.4,0.0,2026-11-23 23:03:50.458,4.8,5.8,7.0
+1569874,Kelani Ganga,Deraniyagala,1.29,0.0,2026-11-24 00:04:42.888,4.8,5.8,7.0
+1569908,Kelani Ganga,Deraniyagala,1.05,0.0,2026-11-24 01:03:32.933,4.8,5.8,7.0
