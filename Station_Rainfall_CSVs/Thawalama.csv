@@ -6637,6 +6637,7 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1569336,Gin Ganga,Thawalama,1.75,0.0,2026-11-23 10:02:44.447,4.0,6.0,7.5
 1569387,Gin Ganga,Thawalama,1.72,0.0,2026-11-23 11:05:59.747,4.0,6.0,7.5
 1569410,Gin Ganga,Thawalama,1.7,0.0,2026-11-23 12:02:37.471,4.0,6.0,7.5
+1569463,Gin Ganga,Thawalama,1.69,0.0,2026-11-23 13:04:38.719,4.0,6.0,7.5
 1569584,Gin Ganga,Thawalama,2.0,0.0,2026-11-23 16:04:38.791,4.0,6.0,7.5
 1569627,Gin Ganga,Thawalama,2.1,0.0,2026-11-23 17:05:55.365,4.0,6.0,7.5
 1569672,Gin Ganga,Thawalama,2.25,0.0,2026-11-23 18:06:54.938,4.0,6.0,7.5
@@ -6657,3 +6658,12 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1570160,Gin Ganga,Thawalama,1.96,0.0,2026-11-24 08:04:40.850,4.0,6.0,7.5
 1570202,Gin Ganga,Thawalama,1.95,0.0,2026-11-24 09:05:13.598,4.0,6.0,7.5
 1570229,Gin Ganga,Thawalama,1.91,0.0,2026-11-24 10:03:04.297,4.0,6.0,7.5
+1570482,Gin Ganga,Thawalama,2.02,0.0,2026-11-24 16:06:57.936,4.0,6.0,7.5
+1570519,Gin Ganga,Thawalama,2.55,0.0,2026-11-24 17:07:12.869,4.0,6.0,7.5
+1570551,Gin Ganga,Thawalama,2.52,0.0,2026-11-24 18:04:14.611,4.0,6.0,7.5
+1570596,Gin Ganga,Thawalama,2.68,0.75,2026-11-24 19:08:18.806,4.0,6.0,7.5
+1570632,Gin Ganga,Thawalama,2.79,0.0,2026-11-24 20:09:14.118,4.0,6.0,7.5
+1570671,Gin Ganga,Thawalama,2.85,0.0,2026-11-24 21:10:34.067,4.0,6.0,7.5
+1570706,Gin Ganga,Thawalama,2.76,0.0,2026-11-24 22:11:06.854,4.0,6.0,7.5
+1570743,Gin Ganga,Thawalama,2.69,0.0,2026-11-24 23:15:18.890,4.0,6.0,7.5
+1570755,Gin Ganga,Thawalama,2.64,0.0,2026-11-25 00:03:13.769,4.0,6.0,7.5
