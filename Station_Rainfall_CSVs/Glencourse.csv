@@ -6722,6 +6722,11 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1570161,Kelani Ganga,Glencourse,10.86,0.0,2026-11-24 08:04:41.716,15.0,15.5,19.0
 1570200,Kelani Ganga,Glencourse,10.64,0.0,2026-11-24 09:05:06.498,15.0,15.5,19.0
 1570240,Kelani Ganga,Glencourse,10.45,0.0,2026-11-24 10:05:00.330,15.0,15.5,19.0
+1570285,Kelani Ganga,Glencourse,10.28,0.0,2026-11-24 11:05:59.717,15.0,15.5,19.0
+1570327,Kelani Ganga,Glencourse,10.12,0.0,2026-11-24 12:06:58.141,15.0,15.5,19.0
+1570347,Kelani Ganga,Glencourse,9.98,0.0,2026-11-24 13:03:09.283,15.0,15.5,19.0
+1570398,Kelani Ganga,Glencourse,9.87,0.0,2026-11-24 14:04:35.356,15.0,15.5,19.0
+1570429,Kelani Ganga,Glencourse,9.8,1.2,2026-11-24 15:03:40.788,15.0,15.5,19.0
 1570481,Kelani Ganga,Glencourse,9.92,26.1,2026-11-24 16:06:53.193,15.0,15.5,19.0
 1570520,Kelani Ganga,Glencourse,10.37,18.4,2026-11-24 17:07:40.325,15.0,15.5,19.0
 1570557,Kelani Ganga,Glencourse,10.86,1.9,2026-11-24 18:05:42.888,15.0,15.5,19.0
@@ -6747,3 +6752,12 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1571423,Kelani Ganga,Glencourse,10.19,3.9,2026-11-25 17:06:13.529,15.0,15.5,19.0
 1571465,Kelani Ganga,Glencourse,10.34,16.4,2026-11-25 18:09:38.827,15.0,15.5,19.0
 1571492,Kelani Ganga,Glencourse,10.64,7.2,2026-11-25 19:05:33.876,15.0,15.5,19.0
+1571563,Kelani Ganga,Glencourse,11.56,0.0,2026-11-25 21:04:48.122,15.0,15.5,19.0
+1571596,Kelani Ganga,Glencourse,11.97,0.0,2026-11-25 22:04:08.626,15.0,15.5,19.0
+1571635,Kelani Ganga,Glencourse,12.2,0.0,2026-11-25 23:05:26.878,15.0,15.5,19.0
+1571655,Kelani Ganga,Glencourse,12.29,0.0,2026-11-26 00:02:51.949,15.0,15.5,19.0
+1571687,Kelani Ganga,Glencourse,12.29,0.0,2026-11-26 01:02:18.176,15.0,15.5,19.0
+1571733,Kelani Ganga,Glencourse,12.23,0.0,2026-11-26 02:07:00.224,15.0,15.5,19.0
+1571753,Kelani Ganga,Glencourse,12.13,0.0,2026-11-26 03:02:39.224,15.0,15.5,19.0
+1571792,Kelani Ganga,Glencourse,12.01,0.0,2026-11-26 04:03:52.575,15.0,15.5,19.0
+1571819,Kelani Ganga,Glencourse,11.87,0.0,2026-11-26 05:02:20.965,15.0,15.5,19.0

@@ -6629,6 +6629,11 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1570162,Kelani Ganga,Nagalagam Street,1.0,0.0,2026-11-24 08:05:46.808,4.0,5.0,7.0
 1570198,Kelani Ganga,Nagalagam Street,1.1,0.0,2026-11-24 09:04:44.049,4.0,5.0,7.0
 1570242,Kelani Ganga,Nagalagam Street,1.3,0.0,2026-11-24 10:05:37.958,4.0,5.0,7.0
+1570273,Kelani Ganga,Nagalagam Street,1.6,0.0,2026-11-24 11:03:14.910,4.0,5.0,7.0
+1570303,Kelani Ganga,Nagalagam Street,1.95,0.0,2026-11-24 12:02:05.839,4.0,5.0,7.0
+1570356,Kelani Ganga,Nagalagam Street,2.2,0.0,2026-11-24 13:05:32.262,4.0,5.0,7.0
+1570376,Kelani Ganga,Nagalagam Street,2.3,0.0,2026-11-24 14:01:18.089,4.0,5.0,7.0
+1570447,Kelani Ganga,Nagalagam Street,2.1,0.0,2026-11-24 15:07:03.140,4.0,5.0,7.0
 1570475,Kelani Ganga,Nagalagam Street,1.8,0.0,2026-11-24 16:05:22.235,4.0,5.0,7.0
 1570497,Kelani Ganga,Nagalagam Street,1.4,0.0,2026-11-24 17:02:12.860,4.0,5.0,7.0
 1570548,Kelani Ganga,Nagalagam Street,1.1,0.0,2026-11-24 18:03:30.251,4.0,5.0,7.0
@@ -6654,3 +6659,12 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1571394,Kelani Ganga,Nagalagam Street,1.9,0.0,2026-11-25 17:01:14.779,4.0,5.0,7.0
 1571458,Kelani Ganga,Nagalagam Street,1.5,0.0,2026-11-25 18:06:21.982,4.0,5.0,7.0
 1571483,Kelani Ganga,Nagalagam Street,1.2,0.0,2026-11-25 19:03:27.071,4.0,5.0,7.0
+1571572,Kelani Ganga,Nagalagam Street,1.0,0.0,2026-11-25 21:10:05.623,4.0,5.0,7.0
+1571582,Kelani Ganga,Nagalagam Street,1.3,0.0,2026-11-25 22:02:05.346,4.0,5.0,7.0
+1571623,Kelani Ganga,Nagalagam Street,1.6,0.0,2026-11-25 23:01:54.008,4.0,5.0,7.0
+1571645,Kelani Ganga,Nagalagam Street,2.1,0.0,2026-11-26 00:01:19.146,4.0,5.0,7.0
+1571706,Kelani Ganga,Nagalagam Street,2.4,0.0,2026-11-26 01:17:18.433,4.0,5.0,7.0
+1571730,Kelani Ganga,Nagalagam Street,2.6,0.0,2026-11-26 02:05:46.906,4.0,5.0,7.0
+1571769,Kelani Ganga,Nagalagam Street,2.9,0.0,2026-11-26 03:10:21.220,4.0,5.0,7.0
+1571778,Kelani Ganga,Nagalagam Street,2.8,0.0,2026-11-26 04:02:01.361,4.0,5.0,7.0
+1571837,Kelani Ganga,Nagalagam Street,2.8,0.0,2026-11-26 05:07:50.778,4.0,5.0,7.0

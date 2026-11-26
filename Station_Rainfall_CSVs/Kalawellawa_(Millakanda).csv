@@ -6114,6 +6114,11 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1570151,Kalu Ganga,Kalawellawa (Millakanda),3.01,0.0,2026-11-24 08:03:32.285,5.0,6.5,8.0
 1570199,Kalu Ganga,Kalawellawa (Millakanda),2.95,0.0,2026-11-24 09:05:00.195,5.0,6.5,8.0
 1570248,Kalu Ganga,Kalawellawa (Millakanda),2.9,0.0,2026-11-24 10:09:20.697,5.0,6.5,8.0
+1570291,Kalu Ganga,Kalawellawa (Millakanda),2.85,0.0,2026-11-24 11:20:02.551,5.0,6.5,8.0
+1570308,Kalu Ganga,Kalawellawa (Millakanda),2.8,0.0,2026-11-24 12:02:28.699,5.0,6.5,8.0
+1570362,Kalu Ganga,Kalawellawa (Millakanda),2.75,0.0,2026-11-24 13:09:44.137,5.0,6.5,8.0
+1570391,Kalu Ganga,Kalawellawa (Millakanda),2.66,5.2,2026-11-24 14:03:19.169,5.0,6.5,8.0
+1570439,Kalu Ganga,Kalawellawa (Millakanda),2.58,3.9,2026-11-24 15:05:22.935,5.0,6.5,8.0
 1570488,Kalu Ganga,Kalawellawa (Millakanda),2.54,11.0,2026-11-24 16:13:39.080,5.0,6.5,8.0
 1570502,Kalu Ganga,Kalawellawa (Millakanda),2.6,11.5,2026-11-24 17:02:53.921,5.0,6.5,8.0
 1570536,Kalu Ganga,Kalawellawa (Millakanda),2.65,5.5,2026-11-24 18:01:32.777,5.0,6.5,8.0
@@ -6137,3 +6142,10 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1571429,Kalu Ganga,Kalawellawa (Millakanda),4.7,5.2,2026-11-25 17:18:17.766,5.0,6.5,8.0
 1571442,Kalu Ganga,Kalawellawa (Millakanda),4.72,1.0,2026-11-25 18:02:12.711,5.0,6.5,8.0
 1571485,Kalu Ganga,Kalawellawa (Millakanda),4.74,1.8,2026-11-25 19:04:03.123,5.0,6.5,8.0
+1571599,Kalu Ganga,Kalawellawa (Millakanda),4.85,0.0,2026-11-25 22:06:35.079,5.0,6.5,8.0
+1571618,Kalu Ganga,Kalawellawa (Millakanda),4.88,0.0,2026-11-25 23:01:13.580,5.0,6.5,8.0
+1571650,Kalu Ganga,Kalawellawa (Millakanda),1.0,0.0,2026-11-26 00:02:17.307,5.0,6.5,8.0
+1571656,Kalu Ganga,Kalawellawa (Millakanda),4.89,0.0,2026-11-26 00:03:12.310,5.0,6.5,8.0
+1571717,Kalu Ganga,Kalawellawa (Millakanda),4.92,0.0,2026-11-26 02:02:04.766,5.0,6.5,8.0
+1571795,Kalu Ganga,Kalawellawa (Millakanda),4.96,0.0,2026-11-26 04:05:10.156,5.0,6.5,8.0
+1571841,Kalu Ganga,Kalawellawa (Millakanda),4.97,0.0,2026-11-26 05:13:01.994,5.0,6.5,8.0

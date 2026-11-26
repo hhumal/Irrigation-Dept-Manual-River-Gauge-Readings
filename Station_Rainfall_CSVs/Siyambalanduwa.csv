@@ -6676,6 +6676,13 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1570149,Heda Oya,Siyambalanduwa,0.48,0.0,2026-11-24 08:02:40.287,4.5,6.0,7.0
 1570190,Heda Oya,Siyambalanduwa,0.5,0.0,2026-11-24 09:02:51.054,4.5,6.0,7.0
 1570224,Heda Oya,Siyambalanduwa,0.5,0.0,2026-11-24 10:02:12.530,4.5,6.0,7.0
+1570263,Heda Oya,Siyambalanduwa,0.5,3.0,2026-11-24 11:01:24.404,4.5,6.0,7.0
+1570294,Heda Oya,Siyambalanduwa,0.5,0.0,2026-11-24 12:00:26.123,4.5,6.0,7.0
+1570332,Heda Oya,Siyambalanduwa,0.5,6.0,2026-11-24 12:59:27.193,4.5,6.0,7.0
+1570333,Heda Oya,Siyambalanduwa,0.5,6.0,2026-11-24 13:00:07.871,4.5,6.0,7.0
+1570374,Heda Oya,Siyambalanduwa,0.5,0.0,2026-11-24 14:00:42.797,4.5,6.0,7.0
+1570412,Heda Oya,Siyambalanduwa,0.5,0.7,2026-11-24 15:00:05.340,4.5,6.0,7.0
+1570454,Heda Oya,Siyambalanduwa,0.5,0.0,2026-11-24 16:01:13.950,4.5,6.0,7.0
 1570493,Heda Oya,Siyambalanduwa,0.51,0.0,2026-11-24 17:01:28.007,4.5,6.0,7.0
 1570531,Heda Oya,Siyambalanduwa,0.51,1.3,2026-11-24 18:00:36.454,4.5,6.0,7.0
 1570571,Heda Oya,Siyambalanduwa,0.55,0.0,2026-11-24 19:01:32.512,4.5,6.0,7.0
@@ -6700,3 +6707,12 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1571404,Heda Oya,Siyambalanduwa,0.9,11.5,2026-11-25 17:03:05.302,4.5,6.0,7.0
 1571451,Heda Oya,Siyambalanduwa,0.97,0.0,2026-11-25 18:03:40.978,4.5,6.0,7.0
 1571480,Heda Oya,Siyambalanduwa,1.1,0.0,2026-11-25 19:03:00.155,4.5,6.0,7.0
+1571561,Heda Oya,Siyambalanduwa,1.1,0.7,2026-11-25 21:04:28.281,4.5,6.0,7.0
+1571594,Heda Oya,Siyambalanduwa,1.04,0.2,2026-11-25 22:03:24.280,4.5,6.0,7.0
+1571641,Heda Oya,Siyambalanduwa,1.01,0.0,2026-11-25 23:10:02.492,4.5,6.0,7.0
+1571669,Heda Oya,Siyambalanduwa,0.96,0.0,2026-11-26 00:08:00.945,4.5,6.0,7.0
+1571693,Heda Oya,Siyambalanduwa,0.93,0.0,2026-11-26 01:02:45.525,4.5,6.0,7.0
+1571720,Heda Oya,Siyambalanduwa,0.9,0.0,2026-11-26 02:02:19.118,4.5,6.0,7.0
+1571751,Heda Oya,Siyambalanduwa,0.88,0.0,2026-11-26 03:02:28.936,4.5,6.0,7.0
+1571802,Heda Oya,Siyambalanduwa,0.82,0.0,2026-11-26 04:08:49.614,4.5,6.0,7.0
+1571828,Heda Oya,Siyambalanduwa,0.78,0.0,2026-11-26 05:04:51.768,4.5,6.0,7.0

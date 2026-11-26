@@ -6786,6 +6786,12 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1570143,Kelani Ganga,Holombuwa,1.0,0.0,2026-11-24 08:01:34.489,3.0,4.0,6.0
 1570209,Kelani Ganga,Holombuwa,0.97,0.0,2026-11-24 09:09:54.214,3.0,4.0,6.0
 1570218,Kelani Ganga,Holombuwa,0.92,0.0,2026-11-24 10:01:31.719,3.0,4.0,6.0
+1570280,Kelani Ganga,Holombuwa,0.88,0.0,2026-11-24 11:04:57.709,3.0,4.0,6.0
+1570321,Kelani Ganga,Holombuwa,0.81,0.0,2026-11-24 12:05:10.136,3.0,4.0,6.0
+1570365,Kelani Ganga,Holombuwa,0.79,0.0,2026-11-24 13:12:07.926,3.0,4.0,6.0
+1570403,Kelani Ganga,Holombuwa,0.74,0.0,2026-11-24 14:06:11.197,3.0,4.0,6.0
+1570445,Kelani Ganga,Holombuwa,0.79,12.6,2026-11-24 15:06:44.777,3.0,4.0,6.0
+1570448,Kelani Ganga,Holombuwa,0.78,12.6,2026-11-24 15:07:13.873,3.0,4.0,6.0
 1570484,Kelani Ganga,Holombuwa,0.81,2.0,2026-11-24 16:07:14.001,3.0,4.0,6.0
 1570518,Kelani Ganga,Holombuwa,0.84,6.2,2026-11-24 17:07:02.929,3.0,4.0,6.0
 1570567,Kelani Ganga,Holombuwa,1.61,5.0,2026-11-24 18:08:17.358,3.0,4.0,6.0
@@ -6811,3 +6817,12 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1571400,Kelani Ganga,Holombuwa,2.04,2.0,2026-11-25 17:01:55.635,3.0,4.0,6.0
 1571435,Kelani Ganga,Holombuwa,2.18,0.3,2026-11-25 18:01:27.194,3.0,4.0,6.0
 1571479,Kelani Ganga,Holombuwa,2.16,3.9,2026-11-25 19:02:41.789,3.0,4.0,6.0
+1571568,Kelani Ganga,Holombuwa,1.81,0.0,2026-11-25 21:05:47.189,3.0,4.0,6.0
+1571597,Kelani Ganga,Holombuwa,2.35,0.0,2026-11-25 22:04:40.282,3.0,4.0,6.0
+1571630,Kelani Ganga,Holombuwa,2.47,0.0,2026-11-25 23:03:58.342,3.0,4.0,6.0
+1571671,Kelani Ganga,Holombuwa,2.29,0.0,2026-11-26 00:09:05.261,3.0,4.0,6.0
+1571700,Kelani Ganga,Holombuwa,2.04,0.0,2026-11-26 01:05:20.171,3.0,4.0,6.0
+1571728,Kelani Ganga,Holombuwa,1.8,0.0,2026-11-26 02:05:10.045,3.0,4.0,6.0
+1571770,Kelani Ganga,Holombuwa,1.64,0.0,2026-11-26 03:11:01.948,3.0,4.0,6.0
+1571800,Kelani Ganga,Holombuwa,1.55,0.0,2026-11-26 04:06:41.203,3.0,4.0,6.0
+1571830,Kelani Ganga,Holombuwa,1.5,0.0,2026-11-26 05:05:01.755,3.0,4.0,6.0

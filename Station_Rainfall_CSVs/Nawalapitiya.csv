@@ -6668,6 +6668,12 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1570166,Mahaweli Ganga,Nawalapitiya,1.12,0.0,2026-11-24 08:08:35.930,3.5,5.0,6.0
 1570177,Mahaweli Ganga,Nawalapitiya,1.12,0.0,2026-11-24 09:01:34.374,3.5,5.0,6.0
 1570249,Mahaweli Ganga,Nawalapitiya,1.12,0.0,2026-11-24 10:09:38.282,3.5,5.0,6.0
+1570267,Mahaweli Ganga,Nawalapitiya,1.12,0.0,2026-11-24 11:02:36.832,3.5,5.0,6.0
+1570314,Mahaweli Ganga,Nawalapitiya,1.11,0.0,2026-11-24 12:03:27.575,3.5,5.0,6.0
+1570336,Mahaweli Ganga,Nawalapitiya,1.11,0.0,2026-11-24 13:00:49.145,3.5,5.0,6.0
+1570410,Mahaweli Ganga,Nawalapitiya,1.11,4.5,2026-11-24 14:10:56.773,3.5,5.0,6.0
+1570440,Mahaweli Ganga,Nawalapitiya,1.12,1.4,2026-11-24 15:05:25.915,3.5,5.0,6.0
+1570455,Mahaweli Ganga,Nawalapitiya,1.24,0.0,2026-11-24 16:01:14.792,3.5,5.0,6.0
 1570490,Mahaweli Ganga,Nawalapitiya,1.39,5.5,2026-11-24 17:00:31.090,3.5,5.0,6.0
 1570530,Mahaweli Ganga,Nawalapitiya,2.45,0.0,2026-11-24 18:00:31.281,3.5,5.0,6.0
 1570581,Mahaweli Ganga,Nawalapitiya,2.55,3.0,2026-11-24 19:03:53.560,3.5,5.0,6.0
@@ -6692,3 +6698,13 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1571408,Mahaweli Ganga,Nawalapitiya,1.98,1.2,2026-11-25 17:03:24.150,3.5,5.0,6.0
 1571453,Mahaweli Ganga,Nawalapitiya,1.8,2.17,2026-11-25 18:04:17.444,3.5,5.0,6.0
 1571469,Mahaweli Ganga,Nawalapitiya,1.72,0.0,2026-11-25 19:00:50.145,3.5,5.0,6.0
+1571557,Mahaweli Ganga,Nawalapitiya,1.64,1.7,2026-11-25 21:03:55.593,3.5,5.0,6.0
+1571578,Mahaweli Ganga,Nawalapitiya,1.62,0.0,2026-11-25 22:00:49.506,3.5,5.0,6.0
+1571612,Mahaweli Ganga,Nawalapitiya,1.6,0.0,2026-11-25 23:00:25.008,3.5,5.0,6.0
+1571643,Mahaweli Ganga,Nawalapitiya,1.58,0.0,2026-11-26 00:01:00.654,3.5,5.0,6.0
+1571680,Mahaweli Ganga,Nawalapitiya,1.57,0.0,2026-11-26 01:00:31.033,3.5,5.0,6.0
+1571713,Mahaweli Ganga,Nawalapitiya,1.54,0.0,2026-11-26 02:01:30.440,3.5,5.0,6.0
+1571760,Mahaweli Ganga,Nawalapitiya,1.5,0.0,2026-11-26 03:04:39.463,3.5,5.0,6.0
+1571774,Mahaweli Ganga,Nawalapitiya,1.45,0.0,2026-11-26 04:00:33.560,3.5,5.0,6.0
+1571796,Mahaweli Ganga,Nawalapitiya,0.75,0.0,2026-11-26 04:05:12.625,3.5,5.0,6.0
+1571817,Mahaweli Ganga,Nawalapitiya,1.39,0.0,2026-11-26 05:02:10.606,3.5,5.0,6.0
