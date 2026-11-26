@@ -6795,6 +6795,13 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1570989,Nilwala Ganga,Panadugama,4.59,0.0,2026-11-25 06:20:55.003,5.0,6.0,7.5
 1571032,Nilwala Ganga,Panadugama,4.71,0.0,2026-11-25 07:40:02.982,5.0,6.0,7.5
 1571067,Nilwala Ganga,Panadugama,4.77,0.0,2026-11-25 08:07:10.333,5.0,6.0,7.5
+1571098,Nilwala Ganga,Panadugama,4.05,0.0,2026-11-25 09:03:34.766,5.0,6.0,7.5
+1571099,Nilwala Ganga,Panadugama,4.05,0.0,2026-11-25 09:03:35.933,5.0,6.0,7.5
+1571100,Nilwala Ganga,Panadugama,4.0,0.0,2026-11-25 09:03:37.019,5.0,6.0,7.5
+1571101,Nilwala Ganga,Panadugama,4.76,0.0,2026-11-25 09:03:38.301,5.0,6.0,7.5
+1571116,Nilwala Ganga,Panadugama,4.76,0.0,2026-11-25 09:19:58.141,5.0,6.0,7.5
+1571147,Nilwala Ganga,Panadugama,4.74,0.0,2026-11-25 10:06:25.017,5.0,6.0,7.5
+1571187,Nilwala Ganga,Panadugama,4.73,0.0,2026-11-25 11:06:05.451,5.0,6.0,7.5
 1571225,Nilwala Ganga,Panadugama,4.67,0.0,2026-11-25 12:04:32.800,5.0,6.0,7.5
 1571253,Nilwala Ganga,Panadugama,4.6,0.0,2026-11-25 13:03:16.417,5.0,6.0,7.5
 1571295,Nilwala Ganga,Panadugama,4.52,0.0,2026-11-25 14:03:27.209,5.0,6.0,7.5
@@ -6819,3 +6826,11 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1572014,Nilwala Ganga,Panadugama,3.84,0.0,2026-11-26 10:03:16.163,5.0,6.0,7.5
 1572050,Nilwala Ganga,Panadugama,3.82,0.0,2026-11-26 11:02:33.370,5.0,6.0,7.5
 1572115,Nilwala Ganga,Panadugama,3.8,0.0,2026-11-26 12:11:13.425,5.0,6.0,7.5
+1572271,Nilwala Ganga,Panadugama,3.7,0.0,2026-11-26 16:11:56.196,5.0,6.0,7.5
+1572317,Nilwala Ganga,Panadugama,3.66,0.0,2026-11-26 17:15:47.731,5.0,6.0,7.5
+1572361,Nilwala Ganga,Panadugama,3.63,0.0,2026-11-26 18:30:57.860,5.0,6.0,7.5
+1572374,Nilwala Ganga,Panadugama,3.6,0.0,2026-11-26 19:04:10.131,5.0,6.0,7.5
+1572429,Nilwala Ganga,Panadugama,3.58,0.0,2026-11-26 20:14:10.426,5.0,6.0,7.5
+1572459,Nilwala Ganga,Panadugama,3.71,0.0,2026-11-26 21:06:19.055,5.0,6.0,7.5
+1572486,Nilwala Ganga,Panadugama,3.88,0.0,2026-11-26 22:03:22.077,5.0,6.0,7.5
+1572519,Nilwala Ganga,Panadugama,4.09,0.0,2026-11-26 23:03:11.898,5.0,6.0,7.5

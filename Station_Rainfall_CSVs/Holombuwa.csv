@@ -6809,6 +6809,9 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1570974,Kelani Ganga,Holombuwa,1.07,0.0,2026-11-25 06:04:36.032,3.0,4.0,6.0
 1571029,Kelani Ganga,Holombuwa,1.05,0.0,2026-11-25 07:18:07.018,3.0,4.0,6.0
 1571066,Kelani Ganga,Holombuwa,1.05,0.0,2026-11-25 08:06:45.770,3.0,4.0,6.0
+1571096,Kelani Ganga,Holombuwa,1.03,0.0,2026-11-25 09:03:22.156,3.0,4.0,6.0
+1571144,Kelani Ganga,Holombuwa,1.0,0.0,2026-11-25 10:05:43.841,3.0,4.0,6.0
+1571178,Kelani Ganga,Holombuwa,0.96,0.0,2026-11-25 11:03:17.105,3.0,4.0,6.0
 1571221,Kelani Ganga,Holombuwa,0.94,0.0,2026-11-25 12:03:46.818,3.0,4.0,6.0
 1571248,Kelani Ganga,Holombuwa,0.91,0.0,2026-11-25 13:03:00.893,3.0,4.0,6.0
 1571309,Kelani Ganga,Holombuwa,0.89,2.8,2026-11-25 14:05:59.143,3.0,4.0,6.0
@@ -6834,3 +6837,11 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1572053,Kelani Ganga,Holombuwa,1.22,0.0,2026-11-26 11:03:05.764,3.0,4.0,6.0
 1572108,Kelani Ganga,Holombuwa,1.18,0.0,2026-11-26 12:06:24.450,3.0,4.0,6.0
 1572137,Kelani Ganga,Holombuwa,1.1,0.0,2026-11-26 13:04:29.184,3.0,4.0,6.0
+1572259,Kelani Ganga,Holombuwa,1.02,1.1,2026-11-26 16:05:43.399,3.0,4.0,6.0
+1572302,Kelani Ganga,Holombuwa,1.4,39.5,2026-11-26 17:04:56.351,3.0,4.0,6.0
+1572358,Kelani Ganga,Holombuwa,2.48,5.0,2026-11-26 18:10:48.771,3.0,4.0,6.0
+1572365,Kelani Ganga,Holombuwa,3.0,3.1,2026-11-26 19:01:48.190,3.0,4.0,6.0
+1572425,Kelani Ganga,Holombuwa,3.2,0.8,2026-11-26 20:06:32.216,3.0,4.0,6.0
+1572458,Kelani Ganga,Holombuwa,3.04,0.0,2026-11-26 21:05:58.780,3.0,4.0,6.0
+1572499,Kelani Ganga,Holombuwa,2.75,0.3,2026-11-26 22:07:14.388,3.0,4.0,6.0
+1572539,Kelani Ganga,Holombuwa,2.43,2.5,2026-11-26 23:08:38.028,3.0,4.0,6.0
