@@ -6673,6 +6673,8 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1571395,Mahaweli Ganga,Manampitiya,1.64,0.0,2026-11-25 17:01:15.972,3.0,4.3,6.0
 1571447,Mahaweli Ganga,Manampitiya,1.59,0.0,2026-11-25 18:02:59.044,3.0,4.3,6.0
 1571473,Mahaweli Ganga,Manampitiya,1.54,0.0,2026-11-25 19:01:29.122,3.0,4.3,6.0
+1571526,Mahaweli Ganga,Manampitiya,1.5,0.0,2026-11-25 20:06:36.867,3.0,4.3,6.0
+1571549,Mahaweli Ganga,Manampitiya,1.44,0.0,2026-11-25 21:02:39.582,3.0,4.3,6.0
 1571588,Mahaweli Ganga,Manampitiya,1.41,0.0,2026-11-25 22:02:28.701,3.0,4.3,6.0
 1571639,Mahaweli Ganga,Manampitiya,1.38,11.8,2026-11-25 23:07:30.806,3.0,4.3,6.0
 1571664,Mahaweli Ganga,Manampitiya,1.34,0.0,2026-11-26 00:05:52.820,3.0,4.3,6.0
@@ -6696,3 +6698,11 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1572438,Mahaweli Ganga,Manampitiya,1.62,0.0,2026-11-26 21:01:09.307,3.0,4.3,6.0
 1572474,Mahaweli Ganga,Manampitiya,1.58,0.0,2026-11-26 22:01:23.843,3.0,4.3,6.0
 1572512,Mahaweli Ganga,Manampitiya,1.54,0.0,2026-11-26 23:02:29.397,3.0,4.3,6.0
+1572580,Mahaweli Ganga,Manampitiya,1.46,0.0,2026-11-27 01:01:36.734,3.0,4.3,6.0
+1572616,Mahaweli Ganga,Manampitiya,1.42,0.0,2026-11-27 02:03:13.712,3.0,4.3,6.0
+1572641,Mahaweli Ganga,Manampitiya,1.42,0.0,2026-11-27 03:02:20.669,3.0,4.3,6.0
+1572688,Mahaweli Ganga,Manampitiya,1.45,0.0,2026-11-27 04:04:02.661,3.0,4.3,6.0
+1572718,Mahaweli Ganga,Manampitiya,1.55,0.0,2026-11-27 05:01:49.984,3.0,4.3,6.0
+1572769,Mahaweli Ganga,Manampitiya,1.7,0.0,2026-11-27 06:03:53.972,3.0,4.3,6.0
+1572788,Mahaweli Ganga,Manampitiya,1.89,0.0,2026-11-27 07:00:48.898,3.0,4.3,6.0
+1572845,Mahaweli Ganga,Manampitiya,2.03,0.0,2026-11-27 08:03:25.180,3.0,4.3,6.0

@@ -6617,6 +6617,8 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1571391,Kirindi Oya,Thanamalwila,1.61,0.0,2026-11-25 17:00:17.011,4.0,5.0,5.5
 1571436,Kirindi Oya,Thanamalwila,1.59,0.0,2026-11-25 18:01:29.059,4.0,5.0,5.5
 1571472,Kirindi Oya,Thanamalwila,1.58,0.0,2026-11-25 19:01:23.222,4.0,5.0,5.5
+1571508,Kirindi Oya,Thanamalwila,1.67,0.0,2026-11-25 20:02:11.527,4.0,5.0,5.5
+1571544,Kirindi Oya,Thanamalwila,2.44,0.0,2026-11-25 21:02:12.105,4.0,5.0,5.5
 1571589,Kirindi Oya,Thanamalwila,2.2,0.0,2026-11-25 22:02:35.492,4.0,5.0,5.5
 1571624,Kirindi Oya,Thanamalwila,2.05,0.0,2026-11-25 23:02:12.187,4.0,5.0,5.5
 1571651,Kirindi Oya,Thanamalwila,1.9,0.0,2026-11-26 00:02:17.507,4.0,5.0,5.5
@@ -6639,3 +6641,11 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1572464,Kirindi Oya,Thanamalwila,2.45,1.1,2026-11-26 21:07:59.158,4.0,5.0,5.5
 1572490,Kirindi Oya,Thanamalwila,3.52,2.3,2026-11-26 22:04:35.880,4.0,5.0,5.5
 1572531,Kirindi Oya,Thanamalwila,3.41,0.5,2026-11-26 23:05:58.578,4.0,5.0,5.5
+1572570,Kirindi Oya,Thanamalwila,3.33,0.4,2026-11-27 00:07:55.454,4.0,5.0,5.5
+1572596,Kirindi Oya,Thanamalwila,3.02,0.0,2026-11-27 01:05:52.570,4.0,5.0,5.5
+1572622,Kirindi Oya,Thanamalwila,2.91,0.0,2026-11-27 02:04:45.970,4.0,5.0,5.5
+1572662,Kirindi Oya,Thanamalwila,2.68,2.6,2026-11-27 03:10:28.214,4.0,5.0,5.5
+1572738,Kirindi Oya,Thanamalwila,2.67,0.0,2026-11-27 05:07:59.125,4.0,5.0,5.5
+1572768,Kirindi Oya,Thanamalwila,2.63,0.0,2026-11-27 06:03:49.716,4.0,5.0,5.5
+1572791,Kirindi Oya,Thanamalwila,2.55,0.0,2026-11-27 07:01:09.603,4.0,5.0,5.5
+1572835,Kirindi Oya,Thanamalwila,2.49,0.0,2026-11-27 08:02:09.410,4.0,5.0,5.5
