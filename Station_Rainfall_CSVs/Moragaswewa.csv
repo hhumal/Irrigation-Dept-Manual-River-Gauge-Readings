@@ -7116,6 +7116,9 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1572064,Deduru Oya,Moragaswewa,4.37,0.0,2026-11-26 11:05:04.507,4.75,6.0,7.0
 1572107,Deduru Oya,Moragaswewa,4.41,0.0,2026-11-26 12:06:05.689,4.75,6.0,7.0
 1572128,Deduru Oya,Moragaswewa,4.45,0.0,2026-11-26 13:02:49.791,4.75,6.0,7.0
+1572161,Deduru Oya,Moragaswewa,4.48,0.0,2026-11-26 14:01:37.909,4.75,6.0,7.0
+1572213,Deduru Oya,Moragaswewa,4.51,0.0,2026-11-26 15:02:43.315,4.75,6.0,7.0
+1572241,Deduru Oya,Moragaswewa,4.54,0.25,2026-11-26 16:01:34.263,4.75,6.0,7.0
 1572299,Deduru Oya,Moragaswewa,4.6,0.0,2026-11-26 17:04:42.576,4.75,6.0,7.0
 1572346,Deduru Oya,Moragaswewa,4.65,0.0,2026-11-26 18:04:55.969,4.75,6.0,7.0
 1572369,Deduru Oya,Moragaswewa,4.67,0.0,2026-11-26 19:03:00.466,4.75,6.0,7.0
@@ -7139,3 +7142,12 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1573219,Deduru Oya,Moragaswewa,4.27,12.9,2026-11-27 17:08:05.324,4.75,6.0,7.0
 1573262,Deduru Oya,Moragaswewa,3.25,0.0,2026-11-27 18:08:04.634,4.75,6.0,7.0
 1573295,Deduru Oya,Moragaswewa,3.21,0.0,2026-11-27 19:08:04.747,4.75,6.0,7.0
+1573365,Deduru Oya,Moragaswewa,2.96,0.0,2026-11-27 21:05:16.106,4.75,6.0,7.0
+1573409,Deduru Oya,Moragaswewa,2.9,0.0,2026-11-27 22:13:33.827,4.75,6.0,7.0
+1573423,Deduru Oya,Moragaswewa,2.87,0.0,2026-11-27 23:01:54.401,4.75,6.0,7.0
+1573453,Deduru Oya,Moragaswewa,2.84,0.0,2026-11-28 00:00:59.101,4.75,6.0,7.0
+1573500,Deduru Oya,Moragaswewa,2.79,0.0,2026-11-28 01:01:40.232,4.75,6.0,7.0
+1573531,Deduru Oya,Moragaswewa,2.77,0.0,2026-11-28 02:01:40.348,4.75,6.0,7.0
+1573563,Deduru Oya,Moragaswewa,2.71,0.0,2026-11-28 03:02:32.709,4.75,6.0,7.0
+1573617,Deduru Oya,Moragaswewa,2.58,0.0,2026-11-28 04:05:05.040,4.75,6.0,7.0
+1573635,Deduru Oya,Moragaswewa,2.46,0.0,2026-11-28 05:01:34.396,4.75,6.0,7.0

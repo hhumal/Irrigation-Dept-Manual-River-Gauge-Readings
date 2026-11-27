@@ -6747,6 +6747,9 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1572066,Kalu Ganga,Rathnapura,2.06,0.0,2026-11-26 11:05:34.907,5.2,7.5,9.5
 1572104,Kalu Ganga,Rathnapura,2.0,0.0,2026-11-26 12:05:21.399,5.2,7.5,9.5
 1572144,Kalu Ganga,Rathnapura,1.94,0.0,2026-11-26 13:05:35.284,5.2,7.5,9.5
+1572176,Kalu Ganga,Rathnapura,1.89,4.2,2026-11-26 14:03:53.506,5.2,7.5,9.5
+1572216,Kalu Ganga,Rathnapura,1.89,0.0,2026-11-26 15:03:05.854,5.2,7.5,9.5
+1572247,Kalu Ganga,Rathnapura,1.93,0.8,2026-11-26 16:02:49.114,5.2,7.5,9.5
 1572301,Kalu Ganga,Rathnapura,2.08,3.9,2026-11-26 17:04:55.197,5.2,7.5,9.5
 1572334,Kalu Ganga,Rathnapura,2.3,2.9,2026-11-26 18:02:26.179,5.2,7.5,9.5
 1572390,Kalu Ganga,Rathnapura,3.17,1.8,2026-11-26 19:10:35.576,5.2,7.5,9.5
@@ -6769,3 +6772,12 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1573208,Kalu Ganga,Rathnapura,2.57,0.0,2026-11-27 17:04:11.229,5.2,7.5,9.5
 1573248,Kalu Ganga,Rathnapura,3.16,0.0,2026-11-27 18:03:01.761,5.2,7.5,9.5
 1573289,Kalu Ganga,Rathnapura,3.47,1.4,2026-11-27 19:05:35.733,5.2,7.5,9.5
+1573368,Kalu Ganga,Rathnapura,3.37,2.8,2026-11-27 21:06:07.725,5.2,7.5,9.5
+1573402,Kalu Ganga,Rathnapura,3.25,0.6,2026-11-27 22:06:40.373,5.2,7.5,9.5
+1573436,Kalu Ganga,Rathnapura,3.17,0.0,2026-11-27 23:04:03.723,5.2,7.5,9.5
+1573481,Kalu Ganga,Rathnapura,3.14,0.0,2026-11-28 00:07:26.626,5.2,7.5,9.5
+1573515,Kalu Ganga,Rathnapura,3.17,0.0,2026-11-28 01:07:33.511,5.2,7.5,9.5
+1573549,Kalu Ganga,Rathnapura,3.16,0.0,2026-11-28 02:11:58.699,5.2,7.5,9.5
+1573570,Kalu Ganga,Rathnapura,3.13,0.0,2026-11-28 03:03:39.941,5.2,7.5,9.5
+1573611,Kalu Ganga,Rathnapura,3.06,0.0,2026-11-28 04:03:31.755,5.2,7.5,9.5
+1573651,Kalu Ganga,Rathnapura,2.93,0.0,2026-11-28 05:07:12.742,5.2,7.5,9.5

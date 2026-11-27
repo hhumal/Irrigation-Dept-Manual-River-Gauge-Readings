@@ -6737,6 +6737,9 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1572049,Kelani Ganga,Hanwella,3.58,0.0,2026-11-26 11:02:27.509,6.5,7.5,9.5
 1572094,Kelani Ganga,Hanwella,3.47,0.0,2026-11-26 12:02:54.550,6.5,7.5,9.5
 1572130,Kelani Ganga,Hanwella,3.36,0.0,2026-11-26 13:03:02.236,6.5,7.5,9.5
+1572172,Kelani Ganga,Hanwella,3.26,0.0,2026-11-26 14:02:49.490,6.5,7.5,9.5
+1572207,Kelani Ganga,Hanwella,3.16,0.0,2026-11-26 15:02:23.598,6.5,7.5,9.5
+1572252,Kelani Ganga,Hanwella,3.08,3.6,2026-11-26 16:03:41.294,6.5,7.5,9.5
 1572297,Kelani Ganga,Hanwella,3.0,23.1,2026-11-26 17:04:18.105,6.5,7.5,9.5
 1572350,Kelani Ganga,Hanwella,3.04,3.4,2026-11-26 18:06:29.014,6.5,7.5,9.5
 1572372,Kelani Ganga,Hanwella,3.18,3.6,2026-11-26 19:03:28.736,6.5,7.5,9.5
@@ -6759,3 +6762,12 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1573206,Kelani Ganga,Hanwella,2.9,0.0,2026-11-27 17:03:48.381,6.5,7.5,9.5
 1573249,Kelani Ganga,Hanwella,2.84,0.0,2026-11-27 18:03:25.390,6.5,7.5,9.5
 1573287,Kelani Ganga,Hanwella,2.74,1.4,2026-11-27 19:05:26.657,6.5,7.5,9.5
+1573366,Kelani Ganga,Hanwella,3.04,0.3,2026-11-27 21:05:55.555,6.5,7.5,9.5
+1573399,Kelani Ganga,Hanwella,3.46,0.0,2026-11-27 22:04:40.080,6.5,7.5,9.5
+1573442,Kelani Ganga,Hanwella,3.8,0.0,2026-11-27 23:05:27.160,6.5,7.5,9.5
+1573460,Kelani Ganga,Hanwella,4.02,0.0,2026-11-28 00:02:22.834,6.5,7.5,9.5
+1573513,Kelani Ganga,Hanwella,4.15,0.0,2026-11-28 01:06:03.036,6.5,7.5,9.5
+1573544,Kelani Ganga,Hanwella,4.21,0.0,2026-11-28 02:05:11.118,6.5,7.5,9.5
+1573576,Kelani Ganga,Hanwella,4.24,0.0,2026-11-28 03:04:34.925,6.5,7.5,9.5
+1573613,Kelani Ganga,Hanwella,4.24,0.0,2026-11-28 04:03:51.609,6.5,7.5,9.5
+1573653,Kelani Ganga,Hanwella,4.22,0.0,2026-11-28 05:10:06.134,6.5,7.5,9.5

@@ -6703,6 +6703,8 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1572040,Mahaweli Ganga,Thaldena,0.56,0.0,2026-11-26 11:01:06.798,3.0,4.0,5.0
 1572084,Mahaweli Ganga,Thaldena,0.54,0.0,2026-11-26 12:01:10.177,3.0,4.0,5.0
 1572136,Mahaweli Ganga,Thaldena,0.54,0.0,2026-11-26 13:04:10.389,3.0,4.0,5.0
+1572177,Mahaweli Ganga,Thaldena,0.52,0.0,2026-11-26 14:04:08.256,3.0,4.0,5.0
+1572201,Mahaweli Ganga,Thaldena,0.52,0.0,2026-11-26 15:01:44.067,3.0,4.0,5.0
 1572256,Mahaweli Ganga,Thaldena,0.52,0.0,2026-11-26 16:05:16.047,3.0,4.0,5.0
 1572295,Mahaweli Ganga,Thaldena,0.52,0.0,2026-11-26 17:04:13.320,3.0,4.0,5.0
 1572347,Mahaweli Ganga,Thaldena,0.6,0.4,2026-11-26 18:04:59.770,3.0,4.0,5.0
@@ -6726,3 +6728,11 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1573189,Mahaweli Ganga,Thaldena,0.57,0.0,2026-11-27 17:01:22.144,3.0,4.0,5.0
 1573255,Mahaweli Ganga,Thaldena,0.6,0.0,2026-11-27 18:04:46.995,3.0,4.0,5.0
 1573288,Mahaweli Ganga,Thaldena,0.87,0.0,2026-11-27 19:05:31.467,3.0,4.0,5.0
+1573448,Mahaweli Ganga,Thaldena,1.15,0.0,2026-11-27 23:07:28.934,3.0,4.0,5.0
+1573449,Mahaweli Ganga,Thaldena,1.0,0.0,2026-11-27 23:07:30.046,3.0,4.0,5.0
+1573467,Mahaweli Ganga,Thaldena,0.92,0.0,2026-11-28 00:03:30.009,3.0,4.0,5.0
+1573521,Mahaweli Ganga,Thaldena,0.84,0.0,2026-11-28 01:16:13.813,3.0,4.0,5.0
+1573553,Mahaweli Ganga,Thaldena,0.75,0.0,2026-11-28 02:22:56.581,3.0,4.0,5.0
+1573571,Mahaweli Ganga,Thaldena,0.87,0.0,2026-11-28 03:03:44.206,3.0,4.0,5.0
+1573598,Mahaweli Ganga,Thaldena,0.87,0.0,2026-11-28 04:01:33.099,3.0,4.0,5.0
+1573658,Mahaweli Ganga,Thaldena,0.8,0.0,2026-11-28 05:21:13.085,3.0,4.0,5.0
