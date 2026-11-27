@@ -6716,6 +6716,7 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1571744,Mahaweli Ganga,Peradeniya,3.72,0.0,2026-11-26 03:01:14.447,5.0,7.0,9.0
 1571782,Mahaweli Ganga,Peradeniya,3.54,0.0,2026-11-26 04:02:23.362,5.0,7.0,9.0
 1571831,Mahaweli Ganga,Peradeniya,3.42,0.0,2026-11-26 05:05:01.777,5.0,7.0,9.0
+1571874,Mahaweli Ganga,Peradeniya,3.3,0.0,2026-11-26 06:05:08.764,5.0,7.0,9.0
 1571905,Mahaweli Ganga,Peradeniya,3.26,0.0,2026-11-26 07:05:45.503,5.0,7.0,9.0
 1571952,Mahaweli Ganga,Peradeniya,3.27,0.0,2026-11-26 08:12:46.282,5.0,7.0,9.0
 1571960,Mahaweli Ganga,Peradeniya,3.22,0.0,2026-11-26 09:00:23.497,5.0,7.0,9.0
@@ -6740,3 +6741,10 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1572803,Mahaweli Ganga,Peradeniya,4.38,0.0,2026-11-27 07:04:08.901,5.0,7.0,9.0
 1572804,Mahaweli Ganga,Peradeniya,4.2,0.0,2026-11-27 07:04:10.093,5.0,7.0,9.0
 1572854,Mahaweli Ganga,Peradeniya,4.0,0.0,2026-11-27 08:07:04.183,5.0,7.0,9.0
+1573061,Mahaweli Ganga,Peradeniya,3.48,0.0,2026-11-27 13:10:50.171,5.0,7.0,9.0
+1573095,Mahaweli Ganga,Peradeniya,3.4,2.6,2026-11-27 14:06:31.064,5.0,7.0,9.0
+1573135,Mahaweli Ganga,Peradeniya,3.39,3.4,2026-11-27 15:05:22.974,5.0,7.0,9.0
+1573172,Mahaweli Ganga,Peradeniya,3.76,3.5,2026-11-27 16:04:54.909,5.0,7.0,9.0
+1573214,Mahaweli Ganga,Peradeniya,3.99,1.1,2026-11-27 17:06:21.023,5.0,7.0,9.0
+1573241,Mahaweli Ganga,Peradeniya,4.0,0.3,2026-11-27 18:01:54.463,5.0,7.0,9.0
+1573283,Mahaweli Ganga,Peradeniya,3.95,0.0,2026-11-27 19:04:24.790,5.0,7.0,9.0
