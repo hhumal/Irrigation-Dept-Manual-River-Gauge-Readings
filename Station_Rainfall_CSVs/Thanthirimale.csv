@@ -3379,6 +3379,9 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1572332,Malwathu Oya,Thanthirimale,1.62,0.0,2026-11-26 18:02:07.127,5.0,6.8,7.8
 1572792,Malwathu Oya,Thanthirimale,1.6,0.0,2026-11-27 07:01:27.997,5.0,6.8,7.8
 1572851,Malwathu Oya,Thanthirimale,1.6,0.0,2026-11-27 08:06:43.415,5.0,6.8,7.8
+1572882,Malwathu Oya,Thanthirimale,1.6,0.0,2026-11-27 09:03:21.184,5.0,6.8,7.8
+1572941,Malwathu Oya,Thanthirimale,1.6,0.0,2026-11-27 10:13:02.021,5.0,6.8,7.8
+1572949,Malwathu Oya,Thanthirimale,1.6,0.0,2026-11-27 11:00:45.926,5.0,6.8,7.8
 1573012,Malwathu Oya,Thanthirimale,1.6,0.0,2026-11-27 12:03:21.812,5.0,6.8,7.8
 1573055,Malwathu Oya,Thanthirimale,1.6,7.0,2026-11-27 13:07:07.719,5.0,6.8,7.8
 1573075,Malwathu Oya,Thanthirimale,1.6,0.0,2026-11-27 14:02:16.156,5.0,6.8,7.8
@@ -3392,3 +3395,7 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1573840,Malwathu Oya,Thanthirimale,1.4,0.0,2026-11-28 10:03:27.152,5.0,6.8,7.8
 1573871,Malwathu Oya,Thanthirimale,1.39,0.0,2026-11-28 11:01:50.685,5.0,6.8,7.8
 1573913,Malwathu Oya,Thanthirimale,1.38,0.0,2026-11-28 12:01:43.367,5.0,6.8,7.8
+1574037,Malwathu Oya,Thanthirimale,1.4,0.0,2026-11-28 15:02:50.773,5.0,6.8,7.8
+1574081,Malwathu Oya,Thanthirimale,1.42,0.0,2026-11-28 16:03:19.355,5.0,6.8,7.8
+1574122,Malwathu Oya,Thanthirimale,1.44,0.0,2026-11-28 17:03:17.665,5.0,6.8,7.8
+1574149,Malwathu Oya,Thanthirimale,1.45,0.0,2026-11-28 18:01:41.133,5.0,6.8,7.8

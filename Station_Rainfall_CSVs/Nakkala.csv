@@ -6835,6 +6835,11 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1572759,Kumbukkan Oya,Nakkala,1.66,0.0,2026-11-27 06:02:47.979,5.0,6.0,7.5
 1572786,Kumbukkan Oya,Nakkala,1.58,0.0,2026-11-27 07:00:18.976,5.0,6.0,7.5
 1572826,Kumbukkan Oya,Nakkala,1.5,0.0,2026-11-27 08:00:11.055,5.0,6.0,7.5
+1572866,Kumbukkan Oya,Nakkala,1.44,0.0,2026-11-27 09:00:10.902,5.0,6.0,7.5
+1572910,Kumbukkan Oya,Nakkala,1.38,0.0,2026-11-27 10:01:29.922,5.0,6.0,7.5
+1572946,Kumbukkan Oya,Nakkala,1.34,0.0,2026-11-27 11:00:09.314,5.0,6.0,7.5
+1572956,Kumbukkan Oya,Nakkala,1.34,0.0,2026-11-27 11:02:05.927,5.0,6.0,7.5
+1573004,Kumbukkan Oya,Nakkala,1.3,0.0,2026-11-27 12:02:29.445,5.0,6.0,7.5
 1573027,Kumbukkan Oya,Nakkala,1.28,0.0,2026-11-27 13:00:29.969,5.0,6.0,7.5
 1573065,Kumbukkan Oya,Nakkala,1.25,0.0,2026-11-27 14:00:11.982,5.0,6.0,7.5
 1573105,Kumbukkan Oya,Nakkala,1.21,0.0,2026-11-27 15:00:27.479,5.0,6.0,7.5
@@ -6856,3 +6861,11 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1573828,Kumbukkan Oya,Nakkala,1.01,0.0,2026-11-28 10:01:46.802,5.0,6.0,7.5
 1573884,Kumbukkan Oya,Nakkala,1.0,0.0,2026-11-28 11:03:27.520,5.0,6.0,7.5
 1573930,Kumbukkan Oya,Nakkala,0.99,0.0,2026-11-28 12:03:48.167,5.0,6.0,7.5
+1574049,Kumbukkan Oya,Nakkala,0.97,0.0,2026-11-28 15:04:07.268,5.0,6.0,7.5
+1574071,Kumbukkan Oya,Nakkala,0.97,0.3,2026-11-28 16:01:58.989,5.0,6.0,7.5
+1574129,Kumbukkan Oya,Nakkala,0.97,0.7,2026-11-28 17:04:40.014,5.0,6.0,7.5
+1574150,Kumbukkan Oya,Nakkala,0.98,0.0,2026-11-28 18:01:47.559,5.0,6.0,7.5
+1574190,Kumbukkan Oya,Nakkala,0.97,0.0,2026-11-28 19:01:50.523,5.0,6.0,7.5
+1574224,Kumbukkan Oya,Nakkala,0.96,0.0,2026-11-28 20:00:16.459,5.0,6.0,7.5
+1574279,Kumbukkan Oya,Nakkala,0.96,0.0,2026-11-28 21:02:59.078,5.0,6.0,7.5
+1574306,Kumbukkan Oya,Nakkala,0.96,0.0,2026-11-28 22:01:47.560,5.0,6.0,7.5

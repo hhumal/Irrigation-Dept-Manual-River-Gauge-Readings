@@ -6787,6 +6787,9 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1572761,Menik Ganga,Katharagama,0.44,0.0,2026-11-27 06:03:00.501,4.0,4.6,6.5
 1572813,Menik Ganga,Katharagama,0.4,0.0,2026-11-27 07:07:55.130,4.0,4.6,6.5
 1572848,Menik Ganga,Katharagama,0.38,0.0,2026-11-27 08:03:51.869,4.0,4.6,6.5
+1572886,Menik Ganga,Katharagama,0.36,0.0,2026-11-27 09:03:57.027,4.0,4.6,6.5
+1572928,Menik Ganga,Katharagama,0.33,0.0,2026-11-27 10:04:16.759,4.0,4.6,6.5
+1572979,Menik Ganga,Katharagama,0.31,0.0,2026-11-27 11:06:35.809,4.0,4.6,6.5
 1573018,Menik Ganga,Katharagama,0.3,0.0,2026-11-27 12:04:23.987,4.0,4.6,6.5
 1573054,Menik Ganga,Katharagama,0.29,0.0,2026-11-27 13:06:52.330,4.0,4.6,6.5
 1573096,Menik Ganga,Katharagama,0.28,0.0,2026-11-27 14:06:48.663,4.0,4.6,6.5
@@ -6810,3 +6813,11 @@ objectid,basin,gauge,water_level,rain_fall,Observation_Time,alertpull,minorpull,
 1573826,Menik Ganga,Katharagama,0.14,0.0,2026-11-28 10:01:29.982,4.0,4.6,6.5
 1573883,Menik Ganga,Katharagama,0.13,0.0,2026-11-28 11:03:20.322,4.0,4.6,6.5
 1573915,Menik Ganga,Katharagama,0.12,0.0,2026-11-28 12:02:17.339,4.0,4.6,6.5
+1574041,Menik Ganga,Katharagama,0.3,0.0,2026-11-28 15:03:14.762,4.0,4.6,6.5
+1574080,Menik Ganga,Katharagama,0.36,0.0,2026-11-28 16:03:19.075,4.0,4.6,6.5
+1574127,Menik Ganga,Katharagama,0.38,0.0,2026-11-28 17:04:10.457,4.0,4.6,6.5
+1574162,Menik Ganga,Katharagama,0.38,0.0,2026-11-28 18:03:28.108,4.0,4.6,6.5
+1574206,Menik Ganga,Katharagama,0.38,0.0,2026-11-28 19:04:35.534,4.0,4.6,6.5
+1574236,Menik Ganga,Katharagama,0.38,0.0,2026-11-28 20:02:18.764,4.0,4.6,6.5
+1574287,Menik Ganga,Katharagama,0.38,0.0,2026-11-28 21:05:00.590,4.0,4.6,6.5
+1574307,Menik Ganga,Katharagama,0.38,0.0,2026-11-28 22:02:10.926,4.0,4.6,6.5
